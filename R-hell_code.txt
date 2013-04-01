@@ -1,0 +1,16 @@
+#################################
+##### Running googleVis #########
+#################################
+
+geo<-read.table("eqs7day-M1.txt", h=T, sep="\t", colClasses=c("factor", rep("numeric", 9), "factor"))
+geo <- geo[[2]] ## extract the eq table
+geo$loc=paste(geo$Lat, geo$Lon, sep=":") ## create a lat:long location variable
+G8 <- gvisGeoChart(geo, "loc", "Depth", "Magnitude",
+                   options=list(displayMode="Markers", 
+                   colorAxis="{colors:['purple', 'red', 'orange', 'grey']}",
+				   backgroundColor="lightblue"))
+				   
+plot(G8)				   
+
+				   
+

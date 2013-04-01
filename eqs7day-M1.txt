@@ -1,0 +1,1096 @@
+Src	Eqid	Version	Datetime	Lat	Lon	Magnitude	Depth	NST	Region
+ci	11274914	0	"Friday, March 29, 2013 12:37:21 UTC"	35.93	-117.66	2	0.6	24	Central California
+ak	10683620	1	"Friday, March 29, 2013 12:19:42 UTC"	60.34	-140.34	1.8	4.4	8	"Southern Yukon Territory, Canada"
+us	b000fvkp	5	"Friday, March 29, 2013 12:16:19 UTC"	6.67	-82.63	4.3	21.2	22	south of Panama
+ak	10683618	1	"Friday, March 29, 2013 12:05:34 UTC"	60.61	-142.71	1.7	9.5	9	Southern Alaska
+nc	71962580	0	"Friday, March 29, 2013 11:54:32 UTC"	36.56	-121.07	1.5	6.5	8	Central California
+ci	11274898	0	"Friday, March 29, 2013 11:14:20 UTC"	35.93	-117.67	1.8	0.8	17	Central California
+ci	11274890	0	"Friday, March 29, 2013 11:04:43 UTC"	35.93	-117.67	1.2	0.6	15	Central California
+ak	10683610	1	"Friday, March 29, 2013 11:00:39 UTC"	63.55	-147.3	1.4	0.1	16	Central Alaska
+nc	71962570	1	"Friday, March 29, 2013 10:39:31 UTC"	36.25	-120.82	3	7.4	74	Central California
+nc	71962565	1	"Friday, March 29, 2013 10:34:38 UTC"	38.81	-122.82	2.1	2.8	41	Northern California
+nn	407794	1	"Friday, March 29, 2013 10:17:08 UTC"	38.57	-118.17	2.5	4.3	49	Nevada
+ak	10683601	1	"Friday, March 29, 2013 10:14:57 UTC"	61.59	-148.24	1.5	16.2	13	Southern Alaska
+nc	71962540	0	"Friday, March 29, 2013 10:07:32 UTC"	38.83	-122.78	1	2	10	Northern California
+ak	10683595	1	"Friday, March 29, 2013 09:33:28 UTC"	63.94	-148.76	1.7	0	22	Central Alaska
+ci	11274858	0	"Friday, March 29, 2013 09:19:05 UTC"	32.89	-116.25	1.5	4.9	62	Southern California
+hv	60483996	1	"Friday, March 29, 2013 09:17:17 UTC"	19.37	-155.23	1.8	30.7	41	"Island of Hawaii, Hawaii"
+ci	11274850	0	"Friday, March 29, 2013 08:59:12 UTC"	33.49	-116.43	1.1	11.5	56	Southern California
+ak	10683588	1	"Friday, March 29, 2013 08:55:50 UTC"	63.73	-149.28	1.5	86.1	16	Central Alaska
+ci	11274834	0	"Friday, March 29, 2013 08:42:11 UTC"	33.14	-115.65	1.4	1.8	12	Southern California
+ci	11274826	0	"Friday, March 29, 2013 08:41:52 UTC"	34.02	-117.1	1.8	18	115	"Greater Los Angeles area, California"
+nc	71962490	0	"Friday, March 29, 2013 07:44:10 UTC"	36.79	-121.45	1.2	10.4	10	Central California
+ak	10683572	1	"Friday, March 29, 2013 07:33:55 UTC"	62.71	-149.57	1.6	4.3	14	Central Alaska
+us	b000fvhe	D	"Friday, March 29, 2013 07:30:58 UTC"	-35.37	-72.74	5.5	14.4	101	"offshore Maule, Chile"
+ak	10683564	1	"Friday, March 29, 2013 07:20:30 UTC"	62.3	-149.6	3.1	11.6	53	Central Alaska
+ci	11274794	0	"Friday, March 29, 2013 06:57:32 UTC"	36.11	-117.88	1.5	6.5	22	Central California
+ak	10683561	1	"Friday, March 29, 2013 06:49:31 UTC"	61.18	-151.76	2.1	94.4	11	Southern Alaska
+us	b000fvh5	6	"Friday, March 29, 2013 06:48:58 UTC"	-4.83	154.19	4.4	408.4	104	"Bougainville region, Papua New Guinea"
+mb	28757	1	"Friday, March 29, 2013 06:38:45 UTC"	45.32	-112.57	1.2	7.8	6	western Montana
+ci	11274786	0	"Friday, March 29, 2013 06:08:33 UTC"	34.09	-116.75	2.3	12	130	Southern California
+pr	13088000	0	"Friday, March 29, 2013 06:01:40 UTC"	19.24	-64.76	3.2	67	9	Virgin Islands region
+us	b000fvgf	9	"Friday, March 29, 2013 06:01:05 UTC"	-4.81	151.63	5	139	72	"New Britain region, Papua New Guinea"
+us	b000fvgb	7	"Friday, March 29, 2013 05:42:28 UTC"	51.07	157.36	4.3	78.2	97	"near the east coast of the Kamchatka Peninsula, Russia"
+ak	10683544	1	"Friday, March 29, 2013 05:37:45 UTC"	62.8	-149.84	2	106.6	9	Central Alaska
+nn	407781	1	"Friday, March 29, 2013 05:28:02 UTC"	36.21	-116.24	1.1	7	16	Central California
+nc	71962450	1	"Friday, March 29, 2013 05:06:14 UTC"	36.41	-120.99	2.3	7.3	37	Central California
+us	b000fvfx	A	"Friday, March 29, 2013 05:01:11 UTC"	43.46	86.83	5.6	35.9	87	"northern Xinjiang, China"
+ak	10683532	1	"Friday, March 29, 2013 04:57:52 UTC"	62.1	-148.08	1.4	43.1	6	Central Alaska
+nc	71962435	0	"Friday, March 29, 2013 04:10:31 UTC"	38.81	-122.82	1	3	14	Northern California
+ak	10683523	1	"Friday, March 29, 2013 04:07:15 UTC"	63.16	-150.7	2.3	129.3	33	Central Alaska
+us	b000fvfg	8	"Friday, March 29, 2013 03:46:00 UTC"	-29.34	-69.4	4.6	99.5	153	"San Juan, Argentina"
+uw	60512847	1	"Friday, March 29, 2013 03:45:47 UTC"	48.27	-124.79	1.5	24.9	14	offshore Washington
+nn	407778	1	"Friday, March 29, 2013 03:39:30 UTC"	38.01	-118.07	1.7	13.4	30	Nevada
+nc	71962420	0	"Friday, March 29, 2013 03:31:16 UTC"	35.72	-121.11	1.5	6.6	12	Central California
+ak	10683518	1	"Friday, March 29, 2013 03:14:32 UTC"	61.41	-151.55	2	92	10	Southern Alaska
+hv	60483871	1	"Friday, March 29, 2013 02:43:13 UTC"	19.39	-155.47	1.8	9.6	36	"Island of Hawaii, Hawaii"
+ci	11274746	0	"Friday, March 29, 2013 02:41:04 UTC"	33.49	-116.43	2	8	107	Southern California
+ak	10683508	1	"Friday, March 29, 2013 02:33:25 UTC"	60.93	-150.73	1.7	13.8	7	"Kenai Peninsula, Alaska"
+nc	71962390	1	"Friday, March 29, 2013 02:31:04 UTC"	38.81	-122.82	1.1	2.6	24	Northern California
+ak	10683500	1	"Friday, March 29, 2013 02:01:08 UTC"	61.4	-140.5	1.8	0	10	"Southern Yukon Territory, Canada"
+hv	60483851	2	"Friday, March 29, 2013 01:52:17 UTC"	19.46	-155.46	1.9	7.8	35	"Island of Hawaii, Hawaii"
+ak	10683494	1	"Friday, March 29, 2013 01:42:29 UTC"	62.24	-149.92	1.6	5.9	6	Central Alaska
+uw	60512832	1	"Friday, March 29, 2013 01:37:43 UTC"	46.59	-119.87	1.1	7.6	12	Washington
+nc	71962355	1	"Friday, March 29, 2013 01:36:49 UTC"	38.79	-122.76	1.6	1.8	27	Northern California
+nc	71962360	0	"Friday, March 29, 2013 01:36:25 UTC"	35.72	-121.09	1.2	6.6	7	Central California
+nc	71962345	0	"Friday, March 29, 2013 01:25:51 UTC"	37.47	-118.84	1.1	7.3	9	Central California
+nc	71962340	1	"Friday, March 29, 2013 01:24:16 UTC"	35.72	-121.1	2.4	7.6	29	Central California
+nc	71962335	8	"Friday, March 29, 2013 01:22:39 UTC"	35.72	-121.11	3.6	7	106	Central California
+ci	11274722	0	"Friday, March 29, 2013 00:58:11 UTC"	33.06	-116.06	1.6	15.2	22	Southern California
+ak	10683430	1	"Friday, March 29, 2013 00:47:54 UTC"	61.65	-149.68	1.5	39.2	5	Southern Alaska
+ci	11274714	0	"Friday, March 29, 2013 00:47:24 UTC"	34.26	-117.01	1.4	6.3	11	Southern California
+ak	10683320	1	"Friday, March 29, 2013 00:19:55 UTC"	63.54	-147.95	2.2	2.7	31	Central Alaska
+nn	407770	1	"Thursday, March 28, 2013 23:49:46 UTC"	38.29	-118.4	1.4	9.1	10	Nevada
+us	b000fvan	5	"Thursday, March 28, 2013 23:42:38 UTC"	-6.05	129.28	4.8	226.5	23	Banda Sea
+us	b000fvak	6	"Thursday, March 28, 2013 23:41:02 UTC"	14.1	-92.08	4.2	74.1	35	offshore Guatemala
+ci	11274690	2	"Thursday, March 28, 2013 23:21:52 UTC"	33.7	-116.74	1	18.2	26	Southern California
+ak	10683290	1	"Thursday, March 28, 2013 23:08:47 UTC"	65	-147.44	1.2	4.3	6	northern Alaska
+ak	10683286	1	"Thursday, March 28, 2013 22:52:49 UTC"	63.54	-151.47	1.5	3.3	8	Central Alaska
+ak	10683278	1	"Thursday, March 28, 2013 22:46:15 UTC"	60.59	-152.74	2.2	13.9	11	Southern Alaska
+ak	10683266	1	"Thursday, March 28, 2013 22:23:47 UTC"	63.07	-149.13	2.1	65.5	37	Central Alaska
+ak	10683256	1	"Thursday, March 28, 2013 22:11:01 UTC"	60.91	-146.89	1.8	23.2	13	Southern Alaska
+ci	11274658	4	"Thursday, March 28, 2013 22:09:30 UTC"	32.6	-116.97	1.6	0	20	"San Diego County urban area, California"
+nc	71962310	1	"Thursday, March 28, 2013 21:43:30 UTC"	38.82	-122.8	1	3.3	27	Northern California
+ak	10683221	1	"Thursday, March 28, 2013 21:12:32 UTC"	62.1	-145.16	1.8	6.8	16	Central Alaska
+ak	10683215	1	"Thursday, March 28, 2013 21:07:27 UTC"	63.53	-147.63	1.6	0	18	Central Alaska
+pr	13087002	0	"Thursday, March 28, 2013 20:56:16 UTC"	18.34	-65.9	3	119	25	Puerto Rico
+ak	10683204	1	"Thursday, March 28, 2013 20:50:37 UTC"	63.94	-149.07	1.3	0	12	Central Alaska
+uw	60512712	1	"Thursday, March 28, 2013 20:40:10 UTC"	46.65	-120.49	2	0	23	Washington
+ak	10683198	1	"Thursday, March 28, 2013 20:34:22 UTC"	63.41	-151.31	1.6	7.3	7	Central Alaska
+nc	71962255	2	"Thursday, March 28, 2013 20:33:07 UTC"	40.4	-124.58	1.8	21	15	offshore Northern California
+ci	11274570	2	"Thursday, March 28, 2013 20:28:44 UTC"	35.8	-117.53	1.5	0	17	Central California
+ci	11274578	2	"Thursday, March 28, 2013 20:26:16 UTC"	36.07	-117.87	1	2.2	10	Central California
+nn	407712	1	"Thursday, March 28, 2013 20:10:28 UTC"	38.66	-117.14	1.7	0	6	Nevada
+nc	71962250	0	"Thursday, March 28, 2013 20:06:32 UTC"	36.9	-121.6	1.7	0	9	Northern California
+ak	10683187	1	"Thursday, March 28, 2013 20:03:12 UTC"	64.07	-148.27	1.4	1.8	7	Central Alaska
+ci	11274546	2	"Thursday, March 28, 2013 19:36:34 UTC"	34.71	-116.29	2.1	3.3	35	Southern California
+ci	11274538	2	"Thursday, March 28, 2013 19:34:02 UTC"	32.88	-116.25	1.4	8.6	11	Southern California
+nn	407700	1	"Thursday, March 28, 2013 19:26:37 UTC"	38.26	-118.64	1	0	10	Nevada
+nc	71962230	0	"Thursday, March 28, 2013 19:14:38 UTC"	37.5	-122.4	1.8	1.6	10	"San Francisco Bay area, California"
+uw	60513581	1	"Thursday, March 28, 2013 19:05:29 UTC"	48.28	-124.85	1	0	14	offshore Washington
+ci	11274506	4	"Thursday, March 28, 2013 19:05:03 UTC"	34.85	-118.8	1.1	0	6	Central California
+ak	10683154	1	"Thursday, March 28, 2013 18:52:40 UTC"	63.23	-147.09	1.2	4.9	9	Central Alaska
+uu	60017307	2	"Thursday, March 28, 2013 18:39:48 UTC"	41.42	-110.66	1.8	3	12	Wyoming
+ci	11274498	2	"Thursday, March 28, 2013 18:31:38 UTC"	35.56	-116.94	1.3	0.2	17	Southern California
+ci	11274490	1	"Thursday, March 28, 2013 18:25:53 UTC"	36.07	-117.88	1.2	2	21	Central California
+nc	71962215	0	"Thursday, March 28, 2013 18:23:38 UTC"	38.85	-122.76	1	1.4	7	Northern California
+ak	10682976	1	"Thursday, March 28, 2013 18:16:43 UTC"	61.71	-151.16	2	81.5	12	Southern Alaska
+ak	10682970	1	"Thursday, March 28, 2013 18:08:39 UTC"	63.53	-147.63	1.5	0.1	15	Central Alaska
+nc	71962205	2	"Thursday, March 28, 2013 18:05:31 UTC"	36.3	-120.82	1.4	7.8	19	Central California
+nc	71962200	4	"Thursday, March 28, 2013 18:03:34 UTC"	39.53	-120.62	1.8	12.5	31	Northern California
+nn	407687	1	"Thursday, March 28, 2013 17:49:18 UTC"	37.12	-116.93	1.5	4.5	19	Nevada
+ci	11274466	2	"Thursday, March 28, 2013 17:40:49 UTC"	36.45	-117.6	1.1	0.1	16	Central California
+ci	11274450	1	"Thursday, March 28, 2013 17:32:08 UTC"	33.41	-116.43	1.2	14.5	22	Southern California
+uu	60017292	2	"Thursday, March 28, 2013 17:19:49 UTC"	44.65	-110.47	1.3	6.6	13	"Yellowstone National Park, Wyoming"
+ak	10682917	1	"Thursday, March 28, 2013 17:04:24 UTC"	64.01	-148.89	1.9	0.1	18	Central Alaska
+us	b000furm	7	"Thursday, March 28, 2013 16:47:36 UTC"	52.75	-169.44	2.5	4.8	0	"Fox Islands, Aleutian Islands, Alaska"
+nc	71962165	0	"Thursday, March 28, 2013 16:28:50 UTC"	36.8	-120.9	1.6	0	16	Central California
+us	b000fun3	7	"Thursday, March 28, 2013 16:13:41 UTC"	42.32	18.84	4.1	9.1	39	Montenegro
+pr	13087001	0	"Thursday, March 28, 2013 15:48:02 UTC"	19.42	-65.28	3.2	89	7	Puerto Rico region
+ci	11274386	1	"Thursday, March 28, 2013 15:38:10 UTC"	33.49	-116.42	1.1	8.6	30	Southern California
+uw	60513501	2	"Thursday, March 28, 2013 15:29:26 UTC"	46.27	-121.62	1.1	1.7	25	Washington
+ci	11274378	1	"Thursday, March 28, 2013 15:26:29 UTC"	36.43	-116.93	1.8	10.9	17	Central California
+ak	10682874	1	"Thursday, March 28, 2013 15:13:04 UTC"	63.59	-147.61	1.5	2.4	17	Central Alaska
+uu	60017272	2	"Thursday, March 28, 2013 15:10:14 UTC"	39.44	-111.23	1.6	2.4	13	Utah
+ak	10682869	1	"Thursday, March 28, 2013 14:38:13 UTC"	62.05	-151.66	1.8	63	12	Central Alaska
+ak	10682865	1	"Thursday, March 28, 2013 14:26:01 UTC"	61.43	-148.03	1.2	15.3	8	Southern Alaska
+ci	11274354	1	"Thursday, March 28, 2013 13:07:44 UTC"	36	-117.58	1.3	5.9	18	Central California
+nc	71962080	8	"Thursday, March 28, 2013 12:44:48 UTC"	40.37	-124.41	2.5	16.5	25	offshore Northern California
+us	b000fuik	5	"Thursday, March 28, 2013 12:42:30 UTC"	-49.91	127.33	4.7	10	20	western Indian-Antarctic Ridge
+ci	11274338	2	"Thursday, March 28, 2013 12:27:32 UTC"	33.5	-116.47	1.6	9.6	36	Southern California
+nn	407659	1	"Thursday, March 28, 2013 12:25:34 UTC"	37.32	-114.98	2.6	9.2	4	Nevada
+ak	10682835	1	"Thursday, March 28, 2013 12:21:24 UTC"	59.85	-151.72	1.9	50.8	9	"Kenai Peninsula, Alaska"
+ak	10682834	1	"Thursday, March 28, 2013 12:14:57 UTC"	62.79	-150.66	1.3	11.1	5	Central Alaska
+ak	10682832	1	"Thursday, March 28, 2013 11:54:23 UTC"	59.77	-140.62	1.9	0.2	6	Southeastern Alaska
+ak	10682826	1	"Thursday, March 28, 2013 11:40:44 UTC"	64.9	-147.91	1.2	11.1	11	Central Alaska
+ci	11274314	2	"Thursday, March 28, 2013 11:32:35 UTC"	32.96	-117.77	1.7	6	20	"Gulf of Santa Catalina, California"
+ci	11274306	2	"Thursday, March 28, 2013 11:25:26 UTC"	33.51	-116.46	1	10.5	35	Southern California
+ak	10682821	1	"Thursday, March 28, 2013 11:15:07 UTC"	61.58	-150.47	1.3	42.6	5	Southern Alaska
+nc	71962050	0	"Thursday, March 28, 2013 11:12:22 UTC"	38.83	-122.76	1.3	2.1	18	Northern California
+nm	032813b	A	"Thursday, March 28, 2013 11:03:53 UTC"	35.51	-92.45	2	1.4	10	Arkansas
+nc	71962040	1	"Thursday, March 28, 2013 10:57:16 UTC"	36.58	-121.18	2	7.2	23	Central California
+ak	10682814	1	"Thursday, March 28, 2013 10:49:08 UTC"	63.36	-151.34	1.1	4.8	6	Central Alaska
+nn	407655	1	"Thursday, March 28, 2013 10:42:09 UTC"	37.99	-118.47	1.2	8.3	15	Nevada
+ak	10682809	1	"Thursday, March 28, 2013 10:39:55 UTC"	60.8	-146.3	1.7	23.6	17	Southern Alaska
+us	b000fugx	4	"Thursday, March 28, 2013 10:26:44 UTC"	37.28	96.98	4.3	10	17	"northern Qinghai, China"
+nn	407654	1	"Thursday, March 28, 2013 10:22:44 UTC"	36.87	-115.12	1.4	14.3	6	Nevada
+se	032813c	A	"Thursday, March 28, 2013 09:54:55 UTC"	36.27	-83.5	1.3	8.6	6	eastern Tennessee
+nc	71962020	1	"Thursday, March 28, 2013 09:32:10 UTC"	38.87	-122.81	1.4	1.7	26	Northern California
+nc	71962015	0	"Thursday, March 28, 2013 09:30:47 UTC"	38.86	-122.81	1	1.6	10	Northern California
+nc	71962010	1	"Thursday, March 28, 2013 09:24:40 UTC"	38.87	-122.81	1.5	1.9	29	Northern California
+nc	71962005	0	"Thursday, March 28, 2013 09:08:25 UTC"	38.78	-122.77	1	1.8	17	Northern California
+nc	71961995	0	"Thursday, March 28, 2013 09:05:18 UTC"	38.87	-122.72	1.4	2	9	Northern California
+ci	11274282	2	"Thursday, March 28, 2013 08:59:43 UTC"	33.27	-116.42	1.1	7.3	33	Southern California
+ak	10682786	1	"Thursday, March 28, 2013 08:51:27 UTC"	60.71	-150.36	1.7	31.7	10	"Kenai Peninsula, Alaska"
+nc	71961990	0	"Thursday, March 28, 2013 08:48:22 UTC"	37.66	-118.86	1.2	5.5	15	"Long Valley area, California"
+ak	10682783	2	"Thursday, March 28, 2013 08:46:44 UTC"	60.94	-150.89	1.2	15	17	"Kenai Peninsula, Alaska"
+nc	71961985	1	"Thursday, March 28, 2013 08:26:17 UTC"	38.82	-122.82	2	2.6	37	Northern California
+nn	407652	1	"Thursday, March 28, 2013 08:14:41 UTC"	36.61	-116.42	1	8.4	15	Nevada
+nc	71961980	3	"Thursday, March 28, 2013 08:13:26 UTC"	36.59	-121.2	2.2	8.2	64	Central California
+nc	71961975	1	"Thursday, March 28, 2013 08:11:58 UTC"	38.87	-122.81	1.4	1.8	21	Northern California
+ak	10682764	1	"Thursday, March 28, 2013 07:54:04 UTC"	63.45	-148.31	1.1	0	10	Central Alaska
+us	b000fue1	6	"Thursday, March 28, 2013 07:48:53 UTC"	-20.05	-69.11	4.6	99.9	44	"Tarapaca, Chile"
+nn	407651	1	"Thursday, March 28, 2013 07:45:25 UTC"	37.3	-114.94	1.5	0	4	Nevada
+nn	407650	1	"Thursday, March 28, 2013 07:38:49 UTC"	38.94	-118.73	1.4	12.9	14	Nevada
+ci	11274258	2	"Thursday, March 28, 2013 07:28:23 UTC"	36.01	-117.81	1.2	1.9	15	Central California
+ak	10682751	1	"Thursday, March 28, 2013 07:19:59 UTC"	61.14	-150.63	1.4	20.4	11	Southern Alaska
+ak	10682750	1	"Thursday, March 28, 2013 07:16:20 UTC"	61.65	-150.21	1.3	74.1	6	Southern Alaska
+ci	11274250	2	"Thursday, March 28, 2013 07:10:56 UTC"	33.23	-116.1	1.3	7.8	43	Southern California
+hv	60483586	2	"Thursday, March 28, 2013 06:41:56 UTC"	19.46	-155.61	1	14.2	11	"Island of Hawaii, Hawaii"
+ci	11274218	1	"Thursday, March 28, 2013 06:29:38 UTC"	33.48	-116.43	2	9.2	68	Southern California
+uu	60017257	4	"Thursday, March 28, 2013 06:27:02 UTC"	38.67	-112.26	2	7.9	15	Utah
+ak	10682743	1	"Thursday, March 28, 2013 06:22:31 UTC"	63.2	-150.78	1.8	129.1	11	Central Alaska
+ci	11274202	1	"Thursday, March 28, 2013 06:17:22 UTC"	34.93	-118.15	2.3	7.1	62	Southern California
+ci	11274154	5	"Thursday, March 28, 2013 06:03:41 UTC"	36.01	-117.81	2.6	1.7	34	Central California
+ci	11274146	1	"Thursday, March 28, 2013 06:01:18 UTC"	33.49	-116.44	1.2	8.7	41	Southern California
+ak	10682735	1	"Thursday, March 28, 2013 05:46:29 UTC"	63.32	-145.26	1.1	3.5	6	Central Alaska
+nc	71961930	0	"Thursday, March 28, 2013 05:43:06 UTC"	36.62	-121.11	1.2	5.9	9	Central California
+ci	11274138	1	"Thursday, March 28, 2013 05:32:53 UTC"	35.83	-117.65	1.3	9.4	20	Central California
+nc	71961910	0	"Thursday, March 28, 2013 05:18:54 UTC"	37.38	-118.55	1.2	7.5	9	Central California
+nc	71961905	0	"Thursday, March 28, 2013 05:16:28 UTC"	38.75	-122.71	1.2	2.6	14	Northern California
+ak	10682714	2	"Thursday, March 28, 2013 05:07:03 UTC"	59.65	-152.28	3.3	80.4	63	Southern Alaska
+nc	71961890	0	"Thursday, March 28, 2013 05:06:02 UTC"	38.75	-122.71	1.4	2.2	17	Northern California
+nc	71961885	3	"Thursday, March 28, 2013 05:04:36 UTC"	38.75	-122.71	2.5	2	76	Northern California
+ci	11274122	1	"Thursday, March 28, 2013 04:35:54 UTC"	33.49	-116.45	1.3	11.1	38	Southern California
+ak	10682699	1	"Thursday, March 28, 2013 04:33:57 UTC"	63.2	-149.39	1.4	84.3	13	Central Alaska
+us	b000fubp	6	"Thursday, March 28, 2013 04:25:35 UTC"	-28.46	-175.46	4.9	34.5	29	Kermadec Islands region
+nm	032813a	A	"Thursday, March 28, 2013 04:24:55 UTC"	36.65	-89.59	1.5	6.1	12	southeastern Missouri
+ak	10682691	1	"Thursday, March 28, 2013 04:21:20 UTC"	60.47	-151.6	2.2	69.2	28	"Kenai Peninsula, Alaska"
+nc	71961865	1	"Thursday, March 28, 2013 04:18:43 UTC"	38.8	-122.81	1.1	3.1	22	Northern California
+ak	10682685	1	"Thursday, March 28, 2013 04:17:05 UTC"	61.56	-149.87	1	29.5	6	Southern Alaska
+ak	10682682	2	"Thursday, March 28, 2013 04:03:27 UTC"	55.5	-135.43	3.5	20	25	off the coast of Southeastern Alaska
+hv	60483466	4	"Thursday, March 28, 2013 03:58:30 UTC"	19.15	-155.43	1.6	34.6	13	"Island of Hawaii, Hawaii"
+pr	13087000	0	"Thursday, March 28, 2013 03:50:10 UTC"	18.13	-67.91	2.9	119	11	"Mona Passage, Puerto Rico"
+us	b000fub3	6	"Thursday, March 28, 2013 03:34:29 UTC"	-23.59	-175.5	5	43.9	82	Tonga region
+ak	10682672	1	"Thursday, March 28, 2013 03:33:27 UTC"	60.72	-147.9	1.9	0	19	Southern Alaska
+ci	11274106	1	"Thursday, March 28, 2013 03:32:43 UTC"	33.49	-116.43	2.3	8.3	70	Southern California
+ak	10682668	1	"Thursday, March 28, 2013 03:29:57 UTC"	61.08	-146.26	1.2	20.5	11	Southern Alaska
+nc	71961855	0	"Thursday, March 28, 2013 03:29:09 UTC"	38.8	-122.81	1.1	2.2	20	Northern California
+se	032813d	A	"Thursday, March 28, 2013 03:16:51 UTC"	32.94	-80.15	1.4	5.6	4	South Carolina
+ak	10682658	1	"Thursday, March 28, 2013 02:55:58 UTC"	65.83	-149.04	1.2	10	4	northern Alaska
+us	b000fuau	8	"Thursday, March 28, 2013 02:53:04 UTC"	13.96	-91.89	4.9	42.2	68	offshore Guatemala
+nn	407628	1	"Thursday, March 28, 2013 02:45:43 UTC"	37.28	-114.95	1.9	0	3	Nevada
+ak	10682654	1	"Thursday, March 28, 2013 02:35:23 UTC"	62.83	-150.32	1.2	33.7	10	Central Alaska
+ak	10682650	1	"Thursday, March 28, 2013 02:27:41 UTC"	63.48	-147.87	1	15.4	8	Central Alaska
+ci	11274082	3	"Thursday, March 28, 2013 02:26:46 UTC"	34.01	-117.18	1	15.2	33	"Greater Los Angeles area, California"
+nn	407625	1	"Thursday, March 28, 2013 02:24:16 UTC"	37.99	-118.47	1.5	8.1	20	Nevada
+ci	11274066	2	"Thursday, March 28, 2013 01:43:16 UTC"	35.47	-118.28	1.2	5.2	12	Central California
+nn	407622	1	"Thursday, March 28, 2013 01:40:32 UTC"	36.38	-116.07	1.1	11.9	17	Nevada
+ci	11274042	1	"Thursday, March 28, 2013 00:35:58 UTC"	33.49	-116.43	1.2	9	40	Southern California
+ak	10682554	1	"Thursday, March 28, 2013 00:27:22 UTC"	59.99	-151.69	2.2	0.2	7	"Kenai Peninsula, Alaska"
+ak	10682642	1	"Thursday, March 28, 2013 00:23:44 UTC"	61.09	-143.27	1.7	0.1	6	Southern Alaska
+ak	10682488	1	"Thursday, March 28, 2013 00:23:27 UTC"	61.12	-145.8	1.5	29.3	5	Southern Alaska
+ak	10682555	1	"Thursday, March 28, 2013 00:07:34 UTC"	63.13	-143.24	2.1	0	7	Central Alaska
+uu	60017247	4	"Wednesday, March 27, 2013 23:56:48 UTC"	39.15	-111.65	1.5	18.7	16	Utah
+ci	11274034	2	"Wednesday, March 27, 2013 23:56:47 UTC"	34.88	-116.69	1.4	4.4	11	Southern California
+ak	10682484	2	"Wednesday, March 27, 2013 23:55:45 UTC"	60.3	-150.51	1.2	15.5	24	"Kenai Peninsula, Alaska"
+ci	11274018	2	"Wednesday, March 27, 2013 23:26:49 UTC"	35.05	-117.68	1.4	0	11	Southern California
+ak	10682444	2	"Wednesday, March 27, 2013 23:25:07 UTC"	63.92	-148.95	2.7	0	40	Central Alaska
+ci	11274010	1	"Wednesday, March 27, 2013 23:24:06 UTC"	33.5	-116.43	1.1	8.5	33	Southern California
+ci	11274002	2	"Wednesday, March 27, 2013 23:13:10 UTC"	33.15	-116.54	1.1	15.2	26	Southern California
+ak	10682424	2	"Wednesday, March 27, 2013 23:06:48 UTC"	64.98	-147.42	1.2	0	17	Central Alaska
+nn	407598	1	"Wednesday, March 27, 2013 23:02:55 UTC"	40.6	-119.63	1.5	14.3	5	Nevada
+ci	11273994	C	"Wednesday, March 27, 2013 22:56:25 UTC"	34.09	-119.24	2.8	3.7	26	"Channel Islands region, California"
+pr	13086003	0	"Wednesday, March 27, 2013 22:54:31 UTC"	19.04	-65.12	2.8	30	8	Virgin Islands region
+ak	10682407	2	"Wednesday, March 27, 2013 22:39:23 UTC"	60.71	-147.36	1.5	2.4	25	Southern Alaska
+ak	10682394	2	"Wednesday, March 27, 2013 22:20:45 UTC"	60.76	-147.94	1.7	15.1	25	Southern Alaska
+nc	71961750	0	"Wednesday, March 27, 2013 22:16:44 UTC"	37.37	-122.18	1.7	4.2	16	"San Francisco Bay area, California"
+nc	71961740	0	"Wednesday, March 27, 2013 22:13:10 UTC"	38.81	-122.81	1	2.1	16	Northern California
+nc	71961745	3	"Wednesday, March 27, 2013 22:12:31 UTC"	38.77	-122.48	1.3	13.2	5	Northern California
+ci	11273970	1	"Wednesday, March 27, 2013 22:07:05 UTC"	33.48	-116.42	1.1	8.9	33	Southern California
+us	b000fuc7	4	"Wednesday, March 27, 2013 21:56:03 UTC"	35.73	-97.22	2.4	4.7	15	Oklahoma
+ak	10682380	2	"Wednesday, March 27, 2013 21:51:51 UTC"	61.74	-148.41	1.2	8.5	26	Southern Alaska
+ak	10683387	2	"Wednesday, March 27, 2013 21:46:50 UTC"	62.9	-149.56	1	69.7	23	Central Alaska
+nc	71961715	0	"Wednesday, March 27, 2013 21:26:27 UTC"	38.79	-122.74	1.1	1.8	18	Northern California
+nc	71961710	0	"Wednesday, March 27, 2013 21:24:32 UTC"	36.95	-121.59	1.2	4	11	Northern California
+nc	71961705	0	"Wednesday, March 27, 2013 21:23:12 UTC"	38.74	-122.71	1	2.6	13	Northern California
+ak	10682372	2	"Wednesday, March 27, 2013 21:22:45 UTC"	61.79	-150.7	1.6	66.9	37	Southern Alaska
+ci	11273954	2	"Wednesday, March 27, 2013 21:18:09 UTC"	37.01	-117.49	1.2	4.4	9	Central California
+uw	60513256	2	"Wednesday, March 27, 2013 21:10:33 UTC"	49.35	-120.45	2.4	0	11	"British Columbia, Canada"
+nc	71961695	2	"Wednesday, March 27, 2013 21:09:17 UTC"	37.32	-122.09	1.7	0	19	"San Francisco Bay area, California"
+ak	10682363	2	"Wednesday, March 27, 2013 20:57:50 UTC"	61.41	-146.6	1	34.3	21	Southern Alaska
+ak	10682360	2	"Wednesday, March 27, 2013 20:47:21 UTC"	62.69	-151.97	1.2	11.3	21	Central Alaska
+ak	10682357	2	"Wednesday, March 27, 2013 20:42:25 UTC"	61.22	-146.68	1	23.4	16	Southern Alaska
+ci	11273922	2	"Wednesday, March 27, 2013 20:34:55 UTC"	33.49	-116.43	1.4	9.5	43	Southern California
+ak	10682338	2	"Wednesday, March 27, 2013 20:01:36 UTC"	61.32	-150.29	1	46.7	16	Southern Alaska
+ak	10683381	2	"Wednesday, March 27, 2013 19:57:26 UTC"	63.07	-150.69	1	108.8	18	Central Alaska
+nc	71961665	0	"Wednesday, March 27, 2013 19:48:56 UTC"	38.78	-122.73	1.3	2.8	14	Northern California
+ci	11273874	3	"Wednesday, March 27, 2013 19:48:16 UTC"	33.49	-116.43	2.7	9.2	93	Southern California
+ci	11273866	1	"Wednesday, March 27, 2013 19:44:47 UTC"	33.49	-116.42	1.2	10.6	32	Southern California
+ak	10682321	2	"Wednesday, March 27, 2013 19:39:43 UTC"	61.4	-150.78	1.4	64.8	36	Southern Alaska
+nc	71961645	0	"Wednesday, March 27, 2013 19:34:01 UTC"	36.92	-121.43	1.2	4.3	9	Central California
+nc	71961640	1	"Wednesday, March 27, 2013 19:27:41 UTC"	38.81	-122.82	1.4	3.1	31	Northern California
+ak	10682306	2	"Wednesday, March 27, 2013 19:24:52 UTC"	63.57	-150.77	1	9.1	14	Central Alaska
+ci	11273858	1	"Wednesday, March 27, 2013 19:24:28 UTC"	33.49	-116.44	1.4	8.9	38	Southern California
+ak	10682301	2	"Wednesday, March 27, 2013 19:23:29 UTC"	62.52	-152.15	1.9	127.3	48	Central Alaska
+ci	11273850	1	"Wednesday, March 27, 2013 19:22:01 UTC"	33.48	-116.43	1.3	9.6	44	Southern California
+ci	11273810	1	"Wednesday, March 27, 2013 19:17:43 UTC"	33.29	-116.26	1.1	5.3	30	Southern California
+nn	407573	1	"Wednesday, March 27, 2013 19:11:42 UTC"	37.99	-118.47	1.3	7.7	19	Nevada
+ak	10682285	3	"Wednesday, March 27, 2013 19:11:13 UTC"	62.91	-150.75	3.1	108.5	88	Central Alaska
+ak	10682283	2	"Wednesday, March 27, 2013 19:07:09 UTC"	63.48	-151.13	1.2	2.5	23	Central Alaska
+ci	11273786	1	"Wednesday, March 27, 2013 19:02:57 UTC"	33.49	-116.43	1.1	8.9	30	Southern California
+nc	71961630	2	"Wednesday, March 27, 2013 18:59:46 UTC"	40.44	-123.11	1.9	28.6	30	Northern California
+ci	11273778	1	"Wednesday, March 27, 2013 18:58:52 UTC"	33.49	-116.42	1.7	9.8	55	Southern California
+ak	10683375	2	"Wednesday, March 27, 2013 18:54:56 UTC"	63.25	-150.59	1	126.8	18	Central Alaska
+ci	11273770	1	"Wednesday, March 27, 2013 18:53:22 UTC"	33.49	-116.43	1.6	9.4	40	Southern California
+ci	11273762	1	"Wednesday, March 27, 2013 18:52:43 UTC"	33.49	-116.44	2.2	8.3	75	Southern California
+ci	11273754	1	"Wednesday, March 27, 2013 18:41:52 UTC"	33.49	-116.43	1	10.6	32	Southern California
+ci	11273746	1	"Wednesday, March 27, 2013 18:41:11 UTC"	33.49	-116.43	1.1	10.2	31	Southern California
+ci	11273730	1	"Wednesday, March 27, 2013 18:38:35 UTC"	33.49	-116.42	1.3	9.9	37	Southern California
+ci	11273722	1	"Wednesday, March 27, 2013 18:37:46 UTC"	33.49	-116.42	1.1	9.1	28	Southern California
+ci	11273658	1	"Wednesday, March 27, 2013 18:18:31 UTC"	33.49	-116.43	1.8	10.2	34	Southern California
+ci	11273650	3	"Wednesday, March 27, 2013 18:17:43 UTC"	33.49	-116.43	2.6	9	58	Southern California
+ci	11273634	6	"Wednesday, March 27, 2013 18:16:59 UTC"	33.49	-116.44	3.7	8.8	85	Southern California
+ak	10682250	2	"Wednesday, March 27, 2013 18:09:47 UTC"	63.33	-149.67	1.1	96	25	Central Alaska
+pr	13086002	0	"Wednesday, March 27, 2013 18:05:04 UTC"	18.14	-64.98	1.8	27	4	Virgin Islands region
+nc	71961595	1	"Wednesday, March 27, 2013 18:03:39 UTC"	38.82	-122.81	1.1	3.4	26	Northern California
+ak	10683373	2	"Wednesday, March 27, 2013 18:02:55 UTC"	61.42	-151.55	1.4	71.4	27	Southern Alaska
+nc	71961590	1	"Wednesday, March 27, 2013 18:02:47 UTC"	38.76	-122.73	1.4	2.9	24	Northern California
+ci	11273602	2	"Wednesday, March 27, 2013 18:00:02 UTC"	33.49	-116.43	1.4	8.5	39	Southern California
+ci	11273594	2	"Wednesday, March 27, 2013 17:59:19 UTC"	33.49	-116.43	1.2	9.3	29	Southern California
+ci	11273570	2	"Wednesday, March 27, 2013 17:57:33 UTC"	33.49	-116.43	1	9.3	26	Southern California
+ci	11273554	2	"Wednesday, March 27, 2013 17:54:25 UTC"	33.49	-116.43	1.6	9.2	43	Southern California
+ci	11273546	2	"Wednesday, March 27, 2013 17:53:30 UTC"	33.49	-116.44	2.1	8.7	74	Southern California
+ci	11273538	2	"Wednesday, March 27, 2013 17:53:12 UTC"	33.49	-116.43	1	10.4	15	Southern California
+ci	11273530	2	"Wednesday, March 27, 2013 17:52:55 UTC"	33.49	-116.43	1.4	10	29	Southern California
+ci	11273514	1	"Wednesday, March 27, 2013 17:52:26 UTC"	33.49	-116.42	1.3	8.3	39	Southern California
+ci	11273498	5	"Wednesday, March 27, 2013 17:50:29 UTC"	33.49	-116.44	3.4	8.5	109	Southern California
+uu	60017217	2	"Wednesday, March 27, 2013 17:45:48 UTC"	44.36	-110.81	1.4	3	14	"Yellowstone National Park, Wyoming"
+us	b000ftux	5	"Wednesday, March 27, 2013 17:44:52 UTC"	-25.98	-177.23	4.7	147.8	90	south of the Fiji Islands
+ak	10683372	2	"Wednesday, March 27, 2013 17:43:08 UTC"	56.99	-156.74	2.2	86	18	Alaska Peninsula
+ci	11273482	4	"Wednesday, March 27, 2013 17:36:32 UTC"	34.63	-117.11	1.6	0	38	Southern California
+ci	11273466	2	"Wednesday, March 27, 2013 17:29:08 UTC"	33.49	-116.44	1.7	8.7	47	Southern California
+ak	10683370	2	"Wednesday, March 27, 2013 17:16:46 UTC"	62.45	-151.31	1.1	82.6	18	Central Alaska
+nc	71961540	1	"Wednesday, March 27, 2013 17:14:40 UTC"	38.82	-122.81	1.8	3.6	40	Northern California
+ak	10683369	2	"Wednesday, March 27, 2013 17:03:19 UTC"	62.88	-150.6	1.1	98.3	19	Central Alaska
+nc	71961525	1	"Wednesday, March 27, 2013 16:46:18 UTC"	38.8	-122.82	1.4	3.4	24	Northern California
+us	2013ngam	5	"Wednesday, March 27, 2013 16:39:10 UTC"	1.42	99.16	4.3	34.6	14	"northern Sumatra, Indonesia"
+ak	10682182	2	"Wednesday, March 27, 2013 16:37:35 UTC"	62.24	-150.19	2.5	13.9	51	Central Alaska
+ak	10682181	2	"Wednesday, March 27, 2013 16:36:50 UTC"	63.17	-151.32	1.8	10.4	23	Central Alaska
+nn	407556	1	"Wednesday, March 27, 2013 16:28:32 UTC"	37.38	-117.1	1.6	0	11	Nevada
+ak	10683365	2	"Wednesday, March 27, 2013 16:11:22 UTC"	62.47	-152.26	1.4	122.4	25	Central Alaska
+ak	10682172	2	"Wednesday, March 27, 2013 16:06:45 UTC"	60.18	-151.18	1.6	63.4	39	"Kenai Peninsula, Alaska"
+ak	10682170	2	"Wednesday, March 27, 2013 16:05:26 UTC"	62.23	-148.54	1.1	38.4	28	Central Alaska
+ak	10682161	2	"Wednesday, March 27, 2013 14:51:29 UTC"	54.71	-161.31	2.5	22.6	15	Alaska Peninsula
+ci	11273418	2	"Wednesday, March 27, 2013 14:43:35 UTC"	34.7	-118.77	1.5	6.8	29	Southern California
+nc	71961470	1	"Wednesday, March 27, 2013 14:35:26 UTC"	38.78	-122.73	1.6	1.8	20	Northern California
+nm	032713d	A	"Wednesday, March 27, 2013 14:18:49 UTC"	36.49	-89.55	1.2	9.6	12	southeastern Missouri
+nc	71961460	0	"Wednesday, March 27, 2013 14:11:58 UTC"	38.78	-122.73	1.4	2.5	22	Northern California
+nc	71961430	2	"Wednesday, March 27, 2013 13:36:28 UTC"	37.41	-118.31	1.1	7.1	8	Central California
+nc	71961420	5	"Wednesday, March 27, 2013 13:13:36 UTC"	38.81	-122.78	1.9	3.8	66	Northern California
+nm	032713c	A	"Wednesday, March 27, 2013 13:13:23 UTC"	36.42	-89.5	1.5	6.8	13	Tennessee
+nc	71961400	5	"Wednesday, March 27, 2013 12:24:34 UTC"	40.23	-124.15	2	10.6	29	Northern California
+ak	10683358	2	"Wednesday, March 27, 2013 11:50:13 UTC"	60.38	-147.59	1.4	11	22	Southern Alaska
+ci	11273402	2	"Wednesday, March 27, 2013 11:38:13 UTC"	33.28	-116.84	1.3	12.2	39	Southern California
+ci	11273394	2	"Wednesday, March 27, 2013 11:23:41 UTC"	35.93	-117.66	2.3	2	34	Central California
+ak	10682131	2	"Wednesday, March 27, 2013 11:05:46 UTC"	60.7	-147.73	1.3	5.9	25	Southern Alaska
+nc	71961385	7	"Wednesday, March 27, 2013 10:52:26 UTC"	37.32	-118.31	2	12.1	38	Central California
+ci	11273378	2	"Wednesday, March 27, 2013 10:50:00 UTC"	33.02	-115.89	1.1	6.8	30	Southern California
+uu	60017202	2	"Wednesday, March 27, 2013 10:32:32 UTC"	38.13	-111.26	1.7	9.3	6	Utah
+uw	60513176	1	"Wednesday, March 27, 2013 10:28:59 UTC"	47.36	-122.67	1.4	19.3	18	"Seattle-Tacoma urban area, Washington"
+pr	13086001	0	"Wednesday, March 27, 2013 10:26:11 UTC"	18.89	-65.5	2.7	28	4	Puerto Rico region
+ak	10683355	2	"Wednesday, March 27, 2013 10:25:28 UTC"	65.14	-151.7	1.4	8.1	18	northern Alaska
+ak	10682123	2	"Wednesday, March 27, 2013 10:13:12 UTC"	61.32	-146.64	1.2	19.1	27	Southern Alaska
+nc	71961360	0	"Wednesday, March 27, 2013 10:01:53 UTC"	38.77	-122.72	1.4	2.4	14	Northern California
+ak	10683353	2	"Wednesday, March 27, 2013 09:33:16 UTC"	65.2	-152.45	1	7.7	13	northern Alaska
+se	32713	C	"Wednesday, March 27, 2013 09:10:49 UTC"	38.66	-82.21	2.5	15.4	20	Ohio
+ak	10682116	2	"Wednesday, March 27, 2013 08:41:33 UTC"	62.19	-148	1.8	9.7	51	Central Alaska
+nc	71961345	3	"Wednesday, March 27, 2013 08:34:59 UTC"	39.99	-120.79	1.7	11.8	19	Northern California
+uw	60513171	1	"Wednesday, March 27, 2013 08:31:37 UTC"	47.36	-122.68	1.5	22.3	31	"Seattle-Tacoma urban area, Washington"
+ak	10683351	2	"Wednesday, March 27, 2013 08:26:52 UTC"	59.69	-152.48	1.9	82.9	32	Southern Alaska
+nn	407535	1	"Wednesday, March 27, 2013 08:14:35 UTC"	38.02	-118.07	1.1	9.5	13	Nevada
+hv	60483211	1	"Wednesday, March 27, 2013 08:11:47 UTC"	19.2	-155.5	1.7	1.9	33	"Island of Hawaii, Hawaii"
+ci	11273338	1	"Wednesday, March 27, 2013 08:05:38 UTC"	33.46	-116.42	1.2	14	44	Southern California
+ak	10682108	2	"Wednesday, March 27, 2013 07:47:19 UTC"	61.72	-151.82	1.6	102	41	Southern Alaska
+nc	71961330	1	"Wednesday, March 27, 2013 07:31:44 UTC"	38.8	-122.8	1.5	3.1	29	Northern California
+ci	11273330	1	"Wednesday, March 27, 2013 07:20:28 UTC"	33.5	-116.46	2.2	8.8	81	Southern California
+ak	10682103	2	"Wednesday, March 27, 2013 07:18:37 UTC"	61.6	-150.97	1.6	78.7	43	Southern Alaska
+nc	71961315	2	"Wednesday, March 27, 2013 07:04:53 UTC"	36.19	-120.77	1.4	6.2	33	Central California
+us	b000ftiv	4	"Wednesday, March 27, 2013 06:42:46 UTC"	-57.28	-24.93	5.5	10	29	South Sandwich Islands region
+ak	10682202	3	"Wednesday, March 27, 2013 06:36:09 UTC"	53.51	-165.35	2.3	41.2	27	"Fox Islands, Aleutian Islands, Alaska"
+nm	032713b	A	"Wednesday, March 27, 2013 06:30:46 UTC"	36.16	-89.67	2.3	6.4	34	southeastern Missouri
+uu	60017197	2	"Wednesday, March 27, 2013 06:23:32 UTC"	39.44	-111.19	1	2.6	6	Utah
+ci	11273306	1	"Wednesday, March 27, 2013 06:14:57 UTC"	35.68	-118.08	1.1	3.2	18	Central California
+nn	407529	1	"Wednesday, March 27, 2013 06:12:06 UTC"	37.98	-118.47	1.8	8.4	19	Nevada
+uu	60017187	2	"Wednesday, March 27, 2013 06:07:49 UTC"	39.43	-111.22	1.2	1	7	Utah
+us	b000ftid	4	"Wednesday, March 27, 2013 05:59:41 UTC"	-57.35	-24.87	5.6	10	37	South Sandwich Islands region
+nc	71961285	0	"Wednesday, March 27, 2013 05:56:47 UTC"	38.75	-122.7	1.5	2.4	15	Northern California
+nc	71961280	2	"Wednesday, March 27, 2013 05:44:07 UTC"	36.29	-120.86	1.6	6.5	24	Central California
+nc	71961275	1	"Wednesday, March 27, 2013 05:42:57 UTC"	38.79	-122.75	1.6	2.7	32	Northern California
+ci	11273290	1	"Wednesday, March 27, 2013 05:35:53 UTC"	33.76	-116.9	1	14.6	40	Southern California
+ak	10682063	2	"Wednesday, March 27, 2013 05:28:58 UTC"	60.43	-150.15	1.6	33.9	37	"Kenai Peninsula, Alaska"
+ak	10683346	2	"Wednesday, March 27, 2013 05:19:13 UTC"	63.25	-150.73	1.2	127	19	Central Alaska
+uu	60017177	2	"Wednesday, March 27, 2013 05:00:42 UTC"	39.42	-111.21	1.3	2.3	6	Utah
+nc	71961265	1	"Wednesday, March 27, 2013 04:49:25 UTC"	36.9	-121.35	1.6	9	28	Central California
+ci	11273274	2	"Wednesday, March 27, 2013 04:36:07 UTC"	33.66	-116.76	1	16.8	38	Southern California
+ak	10682054	2	"Wednesday, March 27, 2013 04:16:48 UTC"	62.31	-148.9	1.4	37.5	38	Central Alaska
+ak	10682053	2	"Wednesday, March 27, 2013 04:02:53 UTC"	62.79	-148.41	1	62.2	20	Central Alaska
+ak	10682050	2	"Wednesday, March 27, 2013 03:58:12 UTC"	62.29	-148.53	1.6	42.6	41	Central Alaska
+uu	60017172	2	"Wednesday, March 27, 2013 03:41:52 UTC"	39.43	-111.21	1.6	2.6	6	Utah
+ak	10682049	3	"Wednesday, March 27, 2013 03:40:57 UTC"	60.93	-150.85	1.2	28.2	25	"Kenai Peninsula, Alaska"
+ak	10682048	2	"Wednesday, March 27, 2013 03:24:15 UTC"	61.27	-151.13	1.4	63.4	35	Southern Alaska
+ak	10683340	2	"Wednesday, March 27, 2013 03:20:35 UTC"	62.47	-148.21	1.1	43.8	31	Central Alaska
+ak	10683338	2	"Wednesday, March 27, 2013 02:33:21 UTC"	63.57	-149.82	1.1	116.4	14	Central Alaska
+ak	10682037	2	"Wednesday, March 27, 2013 02:21:20 UTC"	60.93	-150.89	2.3	10.8	52	"Kenai Peninsula, Alaska"
+uu	60017167	2	"Wednesday, March 27, 2013 02:16:50 UTC"	39.44	-111.21	1.5	2.9	6	Utah
+nc	71961240	0	"Wednesday, March 27, 2013 02:08:26 UTC"	36.94	-121.43	1.2	7.5	10	Central California
+us	b000ftgc	7	"Wednesday, March 27, 2013 02:03:20 UTC"	23.83	121.13	6	20.7	93	Taiwan
+ak	10681872	2	"Wednesday, March 27, 2013 01:57:15 UTC"	60.73	-148.34	2.7	26	63	"Kenai Peninsula, Alaska"
+nc	71961230	0	"Wednesday, March 27, 2013 01:38:37 UTC"	38.79	-122.86	1.2	13.7	7	Northern California
+ak	10683335	2	"Wednesday, March 27, 2013 01:29:50 UTC"	66.51	-142.47	1.6	19.6	14	northern Alaska
+nc	71961220	1	"Wednesday, March 27, 2013 01:27:23 UTC"	38.77	-122.75	1.7	1.4	25	Northern California
+us	b000ftfz	6	"Wednesday, March 27, 2013 01:25:45 UTC"	45.37	142.69	5	280.1	80	"Hokkaido, Japan region"
+pr	13086000	0	"Wednesday, March 27, 2013 00:53:19 UTC"	18.83	-67.39	3.1	10	15	Puerto Rico region
+ak	10681855	2	"Wednesday, March 27, 2013 00:51:55 UTC"	63.28	-150.46	1.3	123.1	25	Central Alaska
+ci	11273218	3	"Wednesday, March 27, 2013 00:44:43 UTC"	31.99	-116.27	3.3	15.4	24	"Baja California, Mexico"
+nn	407515	1	"Wednesday, March 27, 2013 00:44:24 UTC"	39.42	-119.85	1.3	10.7	24	Nevada
+uu	60017152	4	"Wednesday, March 27, 2013 00:42:29 UTC"	39.44	-111.22	1.4	1.1	14	Utah
+nc	71961195	3	"Wednesday, March 27, 2013 00:40:07 UTC"	40.92	-122.44	1.7	9.7	22	Northern California
+ak	10683331	2	"Wednesday, March 27, 2013 00:12:04 UTC"	63.26	-150.52	1.4	128.8	21	Central Alaska
+nc	71961180	2	"Wednesday, March 27, 2013 00:11:30 UTC"	39.88	-120.47	1	7.6	14	Northern California
+nn	407506	1	"Tuesday, March 26, 2013 23:58:07 UTC"	37.29	-114.94	1.7	0	3	Nevada
+nc	71961170	0	"Tuesday, March 26, 2013 23:56:14 UTC"	37.38	-122.19	1.1	3.7	9	"San Francisco Bay area, California"
+uw	60513066	1	"Tuesday, March 26, 2013 23:55:56 UTC"	44.39	-121.01	2.1	0	20	Oregon
+nm	032713e	A	"Tuesday, March 26, 2013 23:47:05 UTC"	36.57	-89.59	1.6	7.8	22	southeastern Missouri
+us	b000ftet	8	"Tuesday, March 26, 2013 23:35:24 UTC"	43.23	41.65	5.1	10	112	"Caucasus region, Russia"
+ci	11273178	2	"Tuesday, March 26, 2013 23:24:55 UTC"	35.04	-117.66	1.6	0	18	Southern California
+ci	11273170	4	"Tuesday, March 26, 2013 23:21:33 UTC"	32.9	-115.52	2.6	13.9	38	Southern California
+nn	407495	1	"Tuesday, March 26, 2013 23:20:03 UTC"	39.42	-119.85	1.2	10.6	28	Nevada
+ci	11273162	6	"Tuesday, March 26, 2013 23:19:00 UTC"	34.76	-118.95	1.4	15.5	11	Southern California
+ak	10681742	1	"Tuesday, March 26, 2013 23:06:00 UTC"	65	-147.42	1.2	0.2	6	northern Alaska
+nn	407491	1	"Tuesday, March 26, 2013 23:01:44 UTC"	39.42	-119.85	1	10.5	11	Nevada
+nn	407488	1	"Tuesday, March 26, 2013 22:55:46 UTC"	39.02	-118.39	1.7	0	16	Nevada
+ci	11273138	4	"Tuesday, March 26, 2013 22:49:59 UTC"	32.54	-116.77	1.8	0	20	"Baja California, Mexico"
+nc	71961140	0	"Tuesday, March 26, 2013 22:24:05 UTC"	38.8	-122.8	1.7	1.4	17	Northern California
+nc	71961125	0	"Tuesday, March 26, 2013 21:42:52 UTC"	36.93	-121.43	1.3	6.6	12	Central California
+ak	10681710	1	"Tuesday, March 26, 2013 21:39:55 UTC"	61.2	-149.83	1.9	47.1	16	Southern Alaska
+nc	71961120	2	"Tuesday, March 26, 2013 21:37:03 UTC"	36.05	-120.34	1.1	9.9	24	Central California
+uu	60017122	2	"Tuesday, March 26, 2013 21:32:39 UTC"	38.77	-111.58	1.2	7.9	6	Utah
+nc	71961115	0	"Tuesday, March 26, 2013 21:28:02 UTC"	38.8	-122.81	1.2	2.1	21	Northern California
+ci	11273090	2	"Tuesday, March 26, 2013 21:14:56 UTC"	35.75	-118.43	1	7	10	Central California
+ci	11273082	2	"Tuesday, March 26, 2013 21:09:40 UTC"	33.99	-116.62	1.1	5.9	24	Southern California
+uw	60513041	1	"Tuesday, March 26, 2013 21:09:08 UTC"	49.43	-120.52	2.2	0	6	"British Columbia, Canada"
+nc	71961105	0	"Tuesday, March 26, 2013 21:06:32 UTC"	37.38	-122.18	1.6	4.6	12	"San Francisco Bay area, California"
+nc	71961080	0	"Tuesday, March 26, 2013 20:42:29 UTC"	38.59	-122.8	1.9	0.8	19	Northern California
+nc	71961075	1	"Tuesday, March 26, 2013 20:22:17 UTC"	37.56	-118.85	1.7	9.3	24	Central California
+ci	11273010	6	"Tuesday, March 26, 2013 20:17:54 UTC"	34.24	-116.77	2.8	9.1	100	Southern California
+ak	10681671	2	"Tuesday, March 26, 2013 20:05:03 UTC"	63.07	-149.26	1.1	72.9	18	Central Alaska
+nn	407455	1	"Tuesday, March 26, 2013 20:01:19 UTC"	37.33	-114.96	3.4	10.1	5	Nevada
+nc	71961065	3	"Tuesday, March 26, 2013 19:57:01 UTC"	38.81	-122.81	2	3.1	73	Northern California
+nc	71961060	0	"Tuesday, March 26, 2013 19:45:43 UTC"	38.82	-122.82	1	2.7	20	Northern California
+nn	407449	1	"Tuesday, March 26, 2013 19:28:45 UTC"	37.29	-114.92	1.6	0	3	Nevada
+nn	407446	1	"Tuesday, March 26, 2013 19:15:47 UTC"	38.28	-118.67	1	0	10	Nevada
+nc	71961040	3	"Tuesday, March 26, 2013 19:11:05 UTC"	36.82	-121.56	2.3	5.9	71	Central California
+ci	11272954	1	"Tuesday, March 26, 2013 18:46:16 UTC"	34.03	-117.24	1.4	16.9	44	"Greater Los Angeles area, California"
+nc	71961005	0	"Tuesday, March 26, 2013 18:24:40 UTC"	38.75	-122.73	1.3	1.7	13	Northern California
+uw	60512976	1	"Tuesday, March 26, 2013 18:22:41 UTC"	42.36	-123.34	1	0	7	Oregon
+nc	71961000	3	"Tuesday, March 26, 2013 18:07:44 UTC"	36.06	-121.04	1.8	12.5	60	Central California
+ci	11272914	2	"Tuesday, March 26, 2013 17:55:05 UTC"	34	-117.18	1.1	4.8	31	"Greater Los Angeles area, California"
+ci	11272898	2	"Tuesday, March 26, 2013 17:47:27 UTC"	32.88	-116.25	1.2	8.8	18	Southern California
+ci	11272890	2	"Tuesday, March 26, 2013 17:41:10 UTC"	35.02	-117.68	1.4	0	19	Southern California
+us	b000fszu	9	"Tuesday, March 26, 2013 17:36:25 UTC"	-33.15	-179.39	5.4	50.7	117	south of the Kermadec Islands
+ak	10681558	1	"Tuesday, March 26, 2013 17:33:50 UTC"	63.25	-151.56	1.6	8	10	Central Alaska
+us	b000fsz8	A	"Tuesday, March 26, 2013 17:23:57 UTC"	-9.41	120.24	5.5	65	113	"Sumba region, Indonesia"
+nc	71960955	0	"Tuesday, March 26, 2013 17:08:06 UTC"	38.59	-122.8	1.8	1.2	13	Northern California
+ci	11272882	2	"Tuesday, March 26, 2013 17:01:31 UTC"	33.84	-117.49	1.6	0	36	"Greater Los Angeles area, California"
+ak	10681487	1	"Tuesday, March 26, 2013 16:19:56 UTC"	61.65	-150.88	1.9	70.7	21	Southern Alaska
+ci	11272874	2	"Tuesday, March 26, 2013 16:14:17 UTC"	35.93	-117.66	1	2.7	12	Central California
+uu	60017062	2	"Tuesday, March 26, 2013 16:12:52 UTC"	39.38	-111.22	1.5	8	5	Utah
+ak	10681471	2	"Tuesday, March 26, 2013 15:46:54 UTC"	51.62	-177.08	2.6	53.2	15	"Andreanof Islands, Aleutian Islands, Alaska"
+ci	11272858	2	"Tuesday, March 26, 2013 15:39:48 UTC"	34.05	-116.71	2.2	12.4	77	Southern California
+nc	71960885	5	"Tuesday, March 26, 2013 15:34:45 UTC"	40.56	-124.38	2.2	21	20	offshore Northern California
+ak	10681451	1	"Tuesday, March 26, 2013 15:23:11 UTC"	62.69	-149.86	2.4	83.3	38	Central Alaska
+us	2013nfaw	A	"Tuesday, March 26, 2013 15:22:07 UTC"	16.16	-98.1	4.2	10	43	"offshore Oaxaca, Mexico"
+nc	71960865	3	"Tuesday, March 26, 2013 15:05:57 UTC"	35.54	-120.76	1.1	5.7	44	Central California
+us	2013nfau	7	"Tuesday, March 26, 2013 14:53:08 UTC"	-24.48	-179.98	4.5	511.1	39	south of the Fiji Islands
+nc	71960855	5	"Tuesday, March 26, 2013 14:37:13 UTC"	40.57	-124.44	2.9	22.2	25	offshore Northern California
+pr	13085005	0	"Tuesday, March 26, 2013 14:19:41 UTC"	18.14	-67.48	2.7	5	10	"Mona Passage, Puerto Rico"
+pr	13085004	0	"Tuesday, March 26, 2013 14:16:24 UTC"	18.3	-67.33	2.6	27	5	"Mona Passage, Puerto Rico"
+ak	10681431	1	"Tuesday, March 26, 2013 14:15:29 UTC"	63.07	-151.38	1.8	2.6	13	Central Alaska
+nc	71960850	0	"Tuesday, March 26, 2013 14:05:38 UTC"	36.93	-121.43	1.4	6.2	16	Central California
+mb	13343862	2	"Tuesday, March 26, 2013 13:45:14 UTC"	48.09	-113.04	2.7	6.3	42	western Montana
+us	2013nfat	4	"Tuesday, March 26, 2013 13:37:49 UTC"	8.72	-40.42	4.7	10	23	central Mid-Atlantic Ridge
+us	2013nfas	B	"Tuesday, March 26, 2013 13:36:15 UTC"	16.48	-98.02	4.6	10	127	"Oaxaca, Mexico"
+ci	11272834	2	"Tuesday, March 26, 2013 13:33:55 UTC"	33.52	-116.43	1.6	10.9	34	Southern California
+ci	11272826	1	"Tuesday, March 26, 2013 13:33:29 UTC"	33.53	-116.43	1.8	11	57	Southern California
+ci	11272818	2	"Tuesday, March 26, 2013 13:30:28 UTC"	33.5	-116.46	1.4	11.2	11	Southern California
+us	2013nfar	E	"Tuesday, March 26, 2013 13:25:59 UTC"	16.39	-98.02	4.6	10	180	"Oaxaca, Mexico"
+ci	11272802	2	"Tuesday, March 26, 2013 13:23:14 UTC"	33.14	-115.65	1.3	6.7	15	Southern California
+us	b000fssk	8	"Tuesday, March 26, 2013 13:12:17 UTC"	16.23	-98.17	5.1	11.4	287	"Oaxaca, Mexico"
+nc	71960820	2	"Tuesday, March 26, 2013 13:11:21 UTC"	39.64	-121.11	1.8	10.4	20	Northern California
+ci	11272786	2	"Tuesday, March 26, 2013 13:11:16 UTC"	33.1	-116.61	1.3	12.9	27	Southern California
+us	b000fssd	C	"Tuesday, March 26, 2013 13:04:48 UTC"	16.2	-98.13	5.5	10	544	"offshore Oaxaca, Mexico"
+nc	71960810	1	"Tuesday, March 26, 2013 12:49:16 UTC"	36.93	-121.43	1.7	6	23	Central California
+uu	60017042	2	"Tuesday, March 26, 2013 12:38:27 UTC"	38.76	-111.52	1	8.8	9	Utah
+nc	71960800	3	"Tuesday, March 26, 2013 12:36:39 UTC"	36.93	-121.43	2.1	7.3	74	Central California
+us	b000fsrq	8	"Tuesday, March 26, 2013 11:55:15 UTC"	35.75	140.84	4.6	10	45	"near the east coast of Honshu, Japan"
+us	b000fsrp	7	"Tuesday, March 26, 2013 11:48:24 UTC"	35.77	140.79	4.7	17.4	38	"near the east coast of Honshu, Japan"
+pr	13085003	0	"Tuesday, March 26, 2013 11:47:54 UTC"	18.51	-64.56	3	1	8	Virgin Islands region
+ak	10681387	1	"Tuesday, March 26, 2013 11:37:09 UTC"	63.53	-147.34	2	0	29	Central Alaska
+hv	60482751	4	"Tuesday, March 26, 2013 11:35:10 UTC"	19.46	-155.6	1	15.3	13	"Island of Hawaii, Hawaii"
+nc	71960785	0	"Tuesday, March 26, 2013 11:30:53 UTC"	38.81	-122.81	1	2.1	16	Northern California
+ak	10681384	2	"Tuesday, March 26, 2013 11:20:45 UTC"	51.9	-173.85	3.3	30.3	17	"Andreanof Islands, Aleutian Islands, Alaska"
+nc	71960780	1	"Tuesday, March 26, 2013 11:19:55 UTC"	38.79	-122.78	1.4	3.8	28	Northern California
+ci	11272754	1	"Tuesday, March 26, 2013 11:17:24 UTC"	33.05	-116.44	1.2	14.4	35	Southern California
+ak	10681379	1	"Tuesday, March 26, 2013 11:14:58 UTC"	62	-147.97	1.5	34.4	11	Central Alaska
+ci	11272746	2	"Tuesday, March 26, 2013 11:14:10 UTC"	36.16	-118.07	1.8	5.8	29	Central California
+ak	10681376	2	"Tuesday, March 26, 2013 11:01:47 UTC"	58.85	-154.58	2.6	128.3	30	Alaska Peninsula
+pr	13085002	0	"Tuesday, March 26, 2013 11:00:25 UTC"	18.52	-66.29	2.5	85	4	Puerto Rico region
+nc	71960770	0	"Tuesday, March 26, 2013 10:58:16 UTC"	36.94	-121.43	1	7.1	9	Central California
+ci	11272738	2	"Tuesday, March 26, 2013 10:55:30 UTC"	34.71	-116.29	2	1.4	24	Southern California
+nc	71960765	1	"Tuesday, March 26, 2013 10:45:50 UTC"	36.93	-121.43	1.7	5.4	24	Central California
+nc	71960760	5	"Tuesday, March 26, 2013 10:43:59 UTC"	36.93	-121.43	3	7.8	106	Central California
+ak	10681366	1	"Tuesday, March 26, 2013 10:39:55 UTC"	65.25	-140.81	3.2	4.4	14	"northern Yukon Territory, Canada"
+nc	71960755	1	"Tuesday, March 26, 2013 10:28:30 UTC"	38.84	-122.82	1.4	2.7	28	Northern California
+ak	10681359	1	"Tuesday, March 26, 2013 10:06:40 UTC"	64.2	-149.86	1.3	14.5	6	Central Alaska
+us	b000fspq	6	"Tuesday, March 26, 2013 10:00:56 UTC"	-23.22	-68.9	4.6	96.5	54	"Antofagasta, Chile"
+nc	71960740	2	"Tuesday, March 26, 2013 09:55:39 UTC"	35.65	-121.05	1	9.3	23	Central California
+nc	71961685	2	"Tuesday, March 26, 2013 09:41:56 UTC"	40.4	-122.06	1.2	9.3	13	Northern California
+uw	60512871	1	"Tuesday, March 26, 2013 09:32:12 UTC"	45.49	-125.9	2.2	5.4	31	off the coast of Oregon
+pr	13085001	0	"Tuesday, March 26, 2013 09:32:00 UTC"	18.91	-64.55	3	5	4	Virgin Islands region
+ak	10681545	2	"Tuesday, March 26, 2013 09:28:56 UTC"	63.5	-151.08	1.7	13.9	19	Central Alaska
+ak	10681347	2	"Tuesday, March 26, 2013 09:25:11 UTC"	50.41	-177.44	2.4	34.9	16	"Andreanof Islands, Aleutian Islands, Alaska"
+ci	11272706	2	"Tuesday, March 26, 2013 08:28:30 UTC"	34.78	-118.92	1.2	15.3	13	Southern California
+hv	60482671	1	"Tuesday, March 26, 2013 08:15:05 UTC"	19.44	-155.19	1.9	5	8	"Island of Hawaii, Hawaii"
+ak	10681334	1	"Tuesday, March 26, 2013 07:33:49 UTC"	63.37	-149.28	2.7	95.7	47	Central Alaska
+ak	10681331	1	"Tuesday, March 26, 2013 07:31:59 UTC"	62.88	-148.31	2	50.9	26	Central Alaska
+us	b000fsmt	6	"Tuesday, March 26, 2013 07:31:18 UTC"	-25.52	179.96	4.6	487.1	46	south of the Fiji Islands
+ak	10681329	2	"Tuesday, March 26, 2013 07:23:12 UTC"	52.03	-173.56	2.8	49.6	15	"Andreanof Islands, Aleutian Islands, Alaska"
+ci	11272650	2	"Tuesday, March 26, 2013 07:16:22 UTC"	36.16	-118.07	2.2	1.9	31	Central California
+ak	10681323	2	"Tuesday, March 26, 2013 07:14:18 UTC"	51.82	179.97	2.2	9.8	16	"Rat Islands, Aleutian Islands, Alaska"
+nc	71960715	2	"Tuesday, March 26, 2013 07:10:40 UTC"	37.78	-119	1.7	3.5	23	Central California
+ci	11272626	2	"Tuesday, March 26, 2013 07:09:00 UTC"	33.47	-116.46	1.1	9.4	35	Southern California
+ci	11272618	2	"Tuesday, March 26, 2013 07:06:11 UTC"	32.99	-116.23	1.2	9.2	37	Southern California
+nc	71960695	3	"Tuesday, March 26, 2013 06:46:12 UTC"	39.47	-123.32	1.5	8.3	17	Northern California
+us	b000fsm7	5	"Tuesday, March 26, 2013 06:16:46 UTC"	-17.66	-178.81	4.5	544.2	45	Fiji region
+ak	10681310	1	"Tuesday, March 26, 2013 06:05:25 UTC"	63.46	-151.21	2	0	15	Central Alaska
+uu	60017017	2	"Tuesday, March 26, 2013 05:52:02 UTC"	39.41	-111.21	1.2	2.3	7	Utah
+uu	60017012	2	"Tuesday, March 26, 2013 05:27:19 UTC"	39.41	-111.21	1.4	2.2	5	Utah
+ak	10681300	1	"Tuesday, March 26, 2013 05:03:20 UTC"	63.48	-147.98	1.1	0.4	7	Central Alaska
+ci	11272578	2	"Tuesday, March 26, 2013 04:53:16 UTC"	34.72	-116.29	1.2	5.8	12	Southern California
+ci	11272570	3	"Tuesday, March 26, 2013 04:36:13 UTC"	32.27	-115.28	2.4	6	17	"Baja California, Mexico"
+ak	10681289	2	"Tuesday, March 26, 2013 04:30:06 UTC"	60.92	-150.86	3.5	14.9	57	"Kenai Peninsula, Alaska"
+nn	407393	1	"Tuesday, March 26, 2013 04:29:10 UTC"	38.03	-118.05	1.1	8.3	12	Nevada
+us	b000fsld	5	"Tuesday, March 26, 2013 04:26:20 UTC"	11.1	93.51	4.5	136.3	30	"Andaman Islands, India region"
+ci	11272562	1	"Tuesday, March 26, 2013 04:22:31 UTC"	35.57	-118.52	1.3	1.4	14	Central California
+ci	11272554	1	"Tuesday, March 26, 2013 04:19:34 UTC"	32.65	-115.69	1.9	10.1	24	Southern California
+nc	71960665	0	"Tuesday, March 26, 2013 04:18:52 UTC"	38.83	-122.78	1.2	2.2	10	Northern California
+ak	10681284	2	"Tuesday, March 26, 2013 04:17:31 UTC"	51.82	-179.9	4.3	7.7	25	"Andreanof Islands, Aleutian Islands, Alaska"
+ci	11272546	1	"Tuesday, March 26, 2013 04:15:15 UTC"	35.93	-117.67	1.2	2.2	16	Central California
+uu	60017002	2	"Tuesday, March 26, 2013 04:01:55 UTC"	39.41	-111.2	1.7	1.6	7	Utah
+nc	71960650	3	"Tuesday, March 26, 2013 03:53:14 UTC"	37.57	-118.99	1.8	3.1	43	Central California
+ci	11272530	2	"Tuesday, March 26, 2013 03:50:53 UTC"	36.45	-117.04	1.3	12.1	11	Central California
+ci	11272522	1	"Tuesday, March 26, 2013 03:46:54 UTC"	35.57	-118.53	1.3	2.3	17	Central California
+ci	11272514	4	"Tuesday, March 26, 2013 03:30:11 UTC"	35.56	-118.52	1	1.9	9	Central California
+uu	60016997	2	"Tuesday, March 26, 2013 03:23:25 UTC"	39.42	-111.21	1.4	3.7	6	Utah
+ak	10681269	2	"Tuesday, March 26, 2013 03:18:56 UTC"	62.09	-147.99	3.3	31.4	71	Central Alaska
+nc	71960635	3	"Tuesday, March 26, 2013 02:58:00 UTC"	39.62	-120	1.2	5.2	22	Northern California
+nc	71960630	0	"Tuesday, March 26, 2013 02:50:14 UTC"	36.65	-121.27	1.4	4.9	9	Central California
+ci	11272498	1	"Tuesday, March 26, 2013 02:39:26 UTC"	33.94	-116.99	1.4	17.5	48	Southern California
+ci	11272482	1	"Tuesday, March 26, 2013 02:15:37 UTC"	34	-117.18	1	3.9	30	"Greater Los Angeles area, California"
+ak	10681255	1	"Tuesday, March 26, 2013 01:56:20 UTC"	63.21	-144.81	2.2	0	18	Central Alaska
+ak	10681254	1	"Tuesday, March 26, 2013 01:49:56 UTC"	63.67	-148.73	1.7	124.1	6	Central Alaska
+nn	407378	1	"Tuesday, March 26, 2013 01:25:47 UTC"	37.12	-116.93	1.5	7.4	19	Nevada
+pr	13085000	0	"Tuesday, March 26, 2013 01:23:17 UTC"	18.74	-64.37	2.6	77	4	"Anegada, British Virgin Islands"
+uu	60016992	2	"Tuesday, March 26, 2013 01:03:22 UTC"	39.43	-111.21	1.2	1.6	9	Utah
+ci	11272458	1	"Tuesday, March 26, 2013 00:44:12 UTC"	32.44	-115.57	1.8	14.6	14	"Baja California, Mexico"
+us	b000fti2	4	"Tuesday, March 26, 2013 00:34:26 UTC"	35.61	-97.22	2.2	5	0	Oklahoma
+ci	11272434	1	"Tuesday, March 26, 2013 00:20:34 UTC"	34.02	-117.21	1.2	15.4	40	"Greater Los Angeles area, California"
+ci	37109620	1	"Tuesday, March 26, 2013 00:20:34 UTC"	34.01	-117.21	1.1	17	19	"Greater Los Angeles area, California"
+ak	10682552	2	"Monday, March 25, 2013 23:56:17 UTC"	62.34	-151.17	1.4	87.5	20	Central Alaska
+ci	11272418	0	"Monday, March 25, 2013 23:55:22 UTC"	35.94	-117.64	1	3	12	Central California
+uu	60016987	2	"Monday, March 25, 2013 23:52:30 UTC"	42.41	-111.48	1.1	9.4	9	southern Idaho
+us	2013nea6	6	"Monday, March 25, 2013 23:42:02 UTC"	13.46	-89.97	4.3	90.1	23	offshore El Salvador
+ci	11272386	1	"Monday, March 25, 2013 23:07:04 UTC"	35.93	-117.66	1.9	1.8	25	Central California
+us	b000fshy	6	"Monday, March 25, 2013 23:02:14 UTC"	14.59	-90.42	6.2	200.5	85	Guatemala
+pr	13084007	0	"Monday, March 25, 2013 23:02:05 UTC"	18.09	-67.18	1.6	26	3	Puerto Rico
+ak	10682551	2	"Monday, March 25, 2013 22:59:54 UTC"	64.98	-147.35	1.6	0	20	Central Alaska
+ak	10681074	1	"Monday, March 25, 2013 22:59:54 UTC"	64.98	-147.38	1.8	0.1	14	Central Alaska
+nc	71960585	0	"Monday, March 25, 2013 22:57:30 UTC"	36.49	-121.07	1.4	3.9	8	Central California
+ci	11272370	3	"Monday, March 25, 2013 22:48:39 UTC"	33.73	-116.03	1.6	0.2	31	Southern California
+ak	10682550	2	"Monday, March 25, 2013 22:32:33 UTC"	61.99	-150.84	1.3	11.3	20	Southern Alaska
+ak	10681054	3	"Monday, March 25, 2013 22:31:54 UTC"	53.07	-173.72	2.6	25.2	20	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10681045	2	"Monday, March 25, 2013 22:17:58 UTC"	63.11	-149.78	1.5	90.4	35	Central Alaska
+mb	13800390	2	"Monday, March 25, 2013 22:11:39 UTC"	48.4	-114.26	2.3	12.3	26	western Montana
+us	b000fsh5	3	"Monday, March 25, 2013 22:08:13 UTC"	35.96	11.55	4.1	15.7	16	Tunisia
+ak	10681035	2	"Monday, March 25, 2013 22:04:15 UTC"	62.38	-148.33	1.2	3	23	Central Alaska
+nc	71960565	3	"Monday, March 25, 2013 22:02:45 UTC"	40.48	-124.2	2.2	21	27	Northern California
+uw	60512696	1	"Monday, March 25, 2013 21:59:01 UTC"	48.52	-122.71	1.1	59.1	13	"San Juan Islands region, Washington"
+ak	10681025	2	"Monday, March 25, 2013 21:54:29 UTC"	60.73	-150.33	2.2	40.1	43	"Kenai Peninsula, Alaska"
+pr	13084006	0	"Monday, March 25, 2013 21:17:27 UTC"	18.13	-67.02	1.6	13	3	Puerto Rico
+ci	15314273	1	"Monday, March 25, 2013 21:08:33 UTC"	32.3	-115.31	1.9	8.5	8	"Baja California, Mexico"
+uw	60512661	1	"Monday, March 25, 2013 20:55:29 UTC"	42.6	-122.4	2.7	4.3	28	Oregon
+us	b000fsfg	9	"Monday, March 25, 2013 20:55:18 UTC"	35.59	24.72	4.5	81.5	64	"Crete, Greece"
+ci	15314265	1	"Monday, March 25, 2013 20:52:51 UTC"	35.76	-118.44	1.5	7.4	27	Central California
+hv	60482436	2	"Monday, March 25, 2013 20:32:14 UTC"	19.37	-155.43	2.1	9.2	42	"Island of Hawaii, Hawaii"
+ci	15314257	1	"Monday, March 25, 2013 20:23:45 UTC"	33.51	-116.44	1.2	11.2	40	Southern California
+nn	407325	1	"Monday, March 25, 2013 20:18:34 UTC"	38.02	-118.07	1.7	10.4	21	Nevada
+uw	60512641	1	"Monday, March 25, 2013 20:02:59 UTC"	45.8	-122.44	1.6	0	11	Washington
+ak	10680980	2	"Monday, March 25, 2013 20:02:47 UTC"	55.9	-155.51	4.6	5	123	south of Alaska
+nc	71960525	3	"Monday, March 25, 2013 19:55:34 UTC"	35.72	-121.06	1.7	7	48	Central California
+ak	10680965	2	"Monday, March 25, 2013 19:36:07 UTC"	61.73	-151.75	1.9	95.7	46	Southern Alaska
+pr	13084005	0	"Monday, March 25, 2013 19:35:33 UTC"	18.77	-64.31	2.7	44	7	Virgin Islands region
+nc	71960510	3	"Monday, March 25, 2013 19:34:02 UTC"	36.65	-121.27	1.9	5.3	52	Central California
+ak	10680948	2	"Monday, March 25, 2013 19:19:47 UTC"	51.83	-173.53	2.5	21.6	20	"Andreanof Islands, Aleutian Islands, Alaska"
+ci	15314241	1	"Monday, March 25, 2013 19:10:22 UTC"	33.15	-116.07	1.7	7.7	51	Southern California
+ak	10680936	2	"Monday, March 25, 2013 19:07:47 UTC"	52.57	-169.18	2.3	23	13	"Fox Islands, Aleutian Islands, Alaska"
+ak	10680928	2	"Monday, March 25, 2013 19:04:54 UTC"	57.56	-142.92	3	12	63	Gulf of Alaska
+ak	10680919	2	"Monday, March 25, 2013 18:46:36 UTC"	59.8	-153.35	2	129.3	30	Southern Alaska
+nc	71960475	1	"Monday, March 25, 2013 18:43:20 UTC"	37.85	-122.29	1.7	10.7	25	"San Francisco Bay area, California"
+nc	71960480	3	"Monday, March 25, 2013 18:43:18 UTC"	39.62	-120.01	1.4	4.6	22	Northern California
+hv	60482406	1	"Monday, March 25, 2013 18:35:21 UTC"	19.4	-155.28	1.7	1.3	14	"Island of Hawaii, Hawaii"
+se	032513a	A	"Monday, March 25, 2013 18:34:36 UTC"	36.03	-83.85	2	15.7	10	eastern Tennessee
+ci	15314217	2	"Monday, March 25, 2013 18:30:33 UTC"	33.66	-117.22	1.2	0	20	Southern California
+uw	60512606	2	"Monday, March 25, 2013 18:28:02 UTC"	46.84	-121.76	1.7	1.6	21	"Mount Rainier area, Washington"
+ak	10680889	2	"Monday, March 25, 2013 18:18:42 UTC"	63.41	-151.32	1.1	11.6	20	Central Alaska
+uw	60512596	1	"Monday, March 25, 2013 18:05:04 UTC"	45.93	-119.93	1.8	0	14	Washington
+nc	71960460	1	"Monday, March 25, 2013 18:03:46 UTC"	36.54	-121.03	1.9	7.3	23	Central California
+ci	15314201	1	"Monday, March 25, 2013 17:46:14 UTC"	33.51	-116.47	1.1	14.4	9	Southern California
+uw	60512591	1	"Monday, March 25, 2013 17:45:52 UTC"	46.4	-121.6	1	1.1	20	Washington
+ci	15314193	2	"Monday, March 25, 2013 17:45:04 UTC"	33.51	-116.47	1	6.9	30	Southern California
+ci	15314177	2	"Monday, March 25, 2013 17:30:21 UTC"	35.35	-117.89	1.4	8.8	33	Southern California
+ak	10680834	2	"Monday, March 25, 2013 17:25:00 UTC"	55.18	-160.65	2.8	3	18	Alaska Peninsula
+nc	71960435	0	"Monday, March 25, 2013 17:23:48 UTC"	37.48	-118.84	1.3	8.6	17	Central California
+nc	71960420	1	"Monday, March 25, 2013 17:11:33 UTC"	38.78	-122.73	1.9	1.7	29	Northern California
+nc	71960415	2	"Monday, March 25, 2013 17:01:59 UTC"	40.67	-122.32	1.8	25.5	14	Northern California
+us	2013neaw	4	"Monday, March 25, 2013 16:58:26 UTC"	50.71	160.18	4.6	10	83	east of the Kuril Islands
+uw	60512581	1	"Monday, March 25, 2013 16:42:40 UTC"	42.61	-122.4	1.6	9.2	18	Oregon
+nc	71960395	0	"Monday, March 25, 2013 16:41:09 UTC"	38.81	-122.82	1.3	4.4	13	Northern California
+ci	15314145	2	"Monday, March 25, 2013 16:23:55 UTC"	34.6	-117.27	1.3	0	10	Southern California
+us	2013neav	7	"Monday, March 25, 2013 16:18:13 UTC"	-22.23	-68.4	4.6	114.8	127	"Antofagasta, Chile"
+ak	10680797	2	"Monday, March 25, 2013 16:12:58 UTC"	51.83	-174.39	2	13.1	18	"Andreanof Islands, Aleutian Islands, Alaska"
+nc	71960380	3	"Monday, March 25, 2013 16:09:41 UTC"	40.29	-124.37	2.2	23	20	offshore Northern California
+ak	10680788	3	"Monday, March 25, 2013 15:59:28 UTC"	51.66	-178.38	3.8	78.3	27	"Andreanof Islands, Aleutian Islands, Alaska"
+nc	71960370	1	"Monday, March 25, 2013 15:47:06 UTC"	37.48	-118.84	1.5	8.7	24	Central California
+us	2013neau	3	"Monday, March 25, 2013 15:35:51 UTC"	-6.47	129.87	4.4	176.2	10	Banda Sea
+ak	10682535	2	"Monday, March 25, 2013 15:32:11 UTC"	62.56	-152.15	1.5	123.4	25	Central Alaska
+ci	15314089	2	"Monday, March 25, 2013 14:59:43 UTC"	33.35	-116.83	1	6.4	38	Southern California
+ak	10682534	2	"Monday, March 25, 2013 14:57:25 UTC"	63.13	-151.52	1.1	13.9	19	Central Alaska
+ak	10680768	2	"Monday, March 25, 2013 14:42:13 UTC"	63.27	-150.41	1.3	118.9	17	Central Alaska
+ak	10682532	2	"Monday, March 25, 2013 14:32:10 UTC"	63.61	-148.41	1.1	83.2	20	Central Alaska
+nc	71960350	3	"Monday, March 25, 2013 14:24:59 UTC"	38.55	-119.61	2.6	10.5	54	Northern California
+nc	71960345	3	"Monday, March 25, 2013 14:19:15 UTC"	36.65	-121.27	2.5	5.4	74	Central California
+ci	15314041	2	"Monday, March 25, 2013 14:17:50 UTC"	32.38	-115.21	2.4	10.7	9	"Baja California, Mexico"
+ak	10680760	2	"Monday, March 25, 2013 14:10:06 UTC"	64.25	-149.99	1.2	17.6	21	Central Alaska
+ak	10680756	2	"Monday, March 25, 2013 13:56:31 UTC"	66.37	-157.33	2.6	25	26	northern Alaska
+ak	10680750	2	"Monday, March 25, 2013 13:49:17 UTC"	64.64	-146.87	1.6	5	32	Central Alaska
+ci	15314017	1	"Monday, March 25, 2013 13:40:03 UTC"	34.49	-118.06	1.2	11.5	21	Southern California
+nc	71960340	1	"Monday, March 25, 2013 13:33:56 UTC"	38.81	-122.82	1.9	3.4	34	Northern California
+ci	15314009	1	"Monday, March 25, 2013 13:31:28 UTC"	34	-117.17	1.6	4.4	71	"Greater Los Angeles area, California"
+ci	15314001	1	"Monday, March 25, 2013 13:23:17 UTC"	34.05	-117.85	1	10.7	15	"Greater Los Angeles area, California"
+ak	10680740	2	"Monday, March 25, 2013 12:52:46 UTC"	66.34	-149.99	1.6	8.3	15	northern Alaska
+nc	71960330	0	"Monday, March 25, 2013 12:51:18 UTC"	36.96	-121.42	1.1	6.4	13	Central California
+mb	13129180	2	"Monday, March 25, 2013 12:43:22 UTC"	47.03	-112.92	1.7	9.1	28	western Montana
+ak	10682526	2	"Monday, March 25, 2013 12:34:02 UTC"	63.15	-150.38	1.2	112.1	16	Central Alaska
+us	b000fs80	6	"Monday, March 25, 2013 12:28:50 UTC"	33.33	95.39	4.5	10	30	"southern Qinghai, China"
+ak	10680729	2	"Monday, March 25, 2013 12:24:33 UTC"	63.53	-147.5	1	10.4	24	Central Alaska
+ak	10682524	2	"Monday, March 25, 2013 12:23:11 UTC"	53.56	-167.09	1.3	13.6	14	"Fox Islands, Aleutian Islands, Alaska"
+ak	10682523	2	"Monday, March 25, 2013 12:17:17 UTC"	53.57	-167.08	1.1	11.4	14	"Fox Islands, Aleutian Islands, Alaska"
+nc	71960320	3	"Monday, March 25, 2013 12:13:18 UTC"	39.79	-123.5	1.7	8.6	27	Northern California
+ak	10680725	2	"Monday, March 25, 2013 12:10:52 UTC"	63.05	-150.91	1.6	114.3	34	Central Alaska
+ak	10680721	2	"Monday, March 25, 2013 12:07:17 UTC"	62.84	-148.52	1.6	62.1	42	Central Alaska
+nn	407241	1	"Monday, March 25, 2013 12:05:09 UTC"	37.3	-117.05	1.3	12.9	12	Nevada
+ak	10682520	2	"Monday, March 25, 2013 12:00:57 UTC"	59.72	-153.51	2.2	122.6	33	Southern Alaska
+us	b000fs7c	7	"Monday, March 25, 2013 11:54:55 UTC"	-11.49	117.18	5.2	10	51	"south of Sumbawa, Indonesia"
+ak	10680720	2	"Monday, March 25, 2013 11:47:05 UTC"	59.82	-153.33	2.2	129.7	45	Southern Alaska
+nc	71960310	3	"Monday, March 25, 2013 11:31:15 UTC"	36.65	-121.27	2.4	5.3	72	Central California
+pr	13084004	0	"Monday, March 25, 2013 11:28:15 UTC"	17.95	-65.7	2.6	12	3	Puerto Rico region
+nc	71960305	3	"Monday, March 25, 2013 11:28:12 UTC"	36.65	-121.27	2.6	5.5	75	Central California
+ak	10680712	2	"Monday, March 25, 2013 11:24:19 UTC"	61.38	-146.87	1.4	19.2	26	Southern Alaska
+ak	10680708	2	"Monday, March 25, 2013 11:14:20 UTC"	62.24	-150.67	1.8	61.1	44	Central Alaska
+ak	10682516	2	"Monday, March 25, 2013 10:53:53 UTC"	63.05	-150.57	1.3	97.5	20	Central Alaska
+nc	71960275	0	"Monday, March 25, 2013 10:29:24 UTC"	38.84	-122.8	1	2.6	17	Northern California
+ak	10680697	2	"Monday, March 25, 2013 10:24:50 UTC"	64.91	-149.16	1.6	12.3	28	Central Alaska
+ak	10680694	2	"Monday, March 25, 2013 10:20:57 UTC"	62.35	-147.36	1.5	49.4	27	Central Alaska
+nc	71960250	3	"Monday, March 25, 2013 10:20:28 UTC"	38.83	-122.8	2.7	2.9	78	Northern California
+nc	71960245	3	"Monday, March 25, 2013 10:16:05 UTC"	38.83	-122.81	1.8	2.9	55	Northern California
+nc	71960230	1	"Monday, March 25, 2013 09:37:07 UTC"	38.81	-122.81	1.7	2.4	24	Northern California
+ci	15313905	1	"Monday, March 25, 2013 09:36:09 UTC"	33.03	-116.44	1.1	9.5	40	Southern California
+ak	10682513	2	"Monday, March 25, 2013 09:22:55 UTC"	54.65	-161.24	1.7	39	9	Alaska Peninsula
+nc	71960220	2	"Monday, March 25, 2013 09:17:40 UTC"	35.89	-120.05	1.3	6.4	25	Central California
+uw	60512546	1	"Monday, March 25, 2013 09:16:39 UTC"	48.53	-119.92	1.6	2.3	9	Washington
+ak	10682511	2	"Monday, March 25, 2013 09:12:23 UTC"	62.9	-150.99	1.3	104.4	18	Central Alaska
+ak	10680681	2	"Monday, March 25, 2013 09:07:20 UTC"	64.26	-149.87	1.8	5	33	Central Alaska
+us	b000fs6h	8	"Monday, March 25, 2013 08:30:02 UTC"	3.02	125.64	5	140.8	60	"Kepulauan Sangihe, Indonesia"
+nc	71960205	0	"Monday, March 25, 2013 08:18:27 UTC"	37.63	-118.92	1.1	8.8	15	"Long Valley area, California"
+nc	71960200	0	"Monday, March 25, 2013 08:17:36 UTC"	38.81	-122.78	1.2	0	18	Northern California
+nc	71960195	0	"Monday, March 25, 2013 08:13:59 UTC"	37.64	-118.92	1.1	8.4	14	"Long Valley area, California"
+pr	13084003	0	"Monday, March 25, 2013 08:05:48 UTC"	19.43	-65.75	2.7	60	7	Puerto Rico region
+ak	10682509	2	"Monday, March 25, 2013 08:03:58 UTC"	53.26	-166.86	1.5	22.2	15	"Fox Islands, Aleutian Islands, Alaska"
+nc	71960180	0	"Monday, March 25, 2013 07:55:34 UTC"	38.76	-122.95	1.5	0.7	8	Northern California
+ci	15313889	2	"Monday, March 25, 2013 07:48:27 UTC"	33.15	-115.64	1	0	23	Southern California
+us	b000fs68	4	"Monday, March 25, 2013 07:40:38 UTC"	-10.91	113.83	4.2	44.5	23	"south of Java, Indonesia"
+ak	10680662	2	"Monday, March 25, 2013 07:26:55 UTC"	63.53	-150.87	1.4	8.8	29	Central Alaska
+ak	10682507	2	"Monday, March 25, 2013 07:06:36 UTC"	60.98	-152.38	1.8	115.9	26	Southern Alaska
+ak	10680656	2	"Monday, March 25, 2013 07:01:04 UTC"	61.39	-146.82	1.6	15	34	Southern Alaska
+nn	407234	1	"Monday, March 25, 2013 06:56:08 UTC"	39.18	-119.88	1.4	12.9	20	Nevada
+ak	10680654	2	"Monday, March 25, 2013 06:55:14 UTC"	60.92	-150.82	1.4	27.1	23	"Kenai Peninsula, Alaska"
+nn	407232	1	"Monday, March 25, 2013 06:46:54 UTC"	39.42	-119.85	1	10.6	22	Nevada
+ci	15313857	1	"Monday, March 25, 2013 06:46:33 UTC"	33.5	-116.42	1.2	9.4	48	Southern California
+nn	407231	1	"Monday, March 25, 2013 06:29:30 UTC"	39.42	-119.85	2	9.9	20	Nevada
+nn	407230	1	"Monday, March 25, 2013 06:28:59 UTC"	39.42	-119.85	1.3	8.8	20	Nevada
+us	b000fs5m	5	"Monday, March 25, 2013 06:27:35 UTC"	15.89	-93.98	4.1	78.4	29	"offshore Chiapas, Mexico"
+ak	10682504	2	"Monday, March 25, 2013 06:25:54 UTC"	63.06	-149.11	1.1	87.3	18	Central Alaska
+nn	407227	1	"Monday, March 25, 2013 06:19:19 UTC"	38.94	-118.74	1.3	11.3	12	Nevada
+ak	10682503	2	"Monday, March 25, 2013 05:55:57 UTC"	61.74	-146.88	1.3	29.3	27	Southern Alaska
+nc	71960110	1	"Monday, March 25, 2013 05:55:43 UTC"	38.81	-122.82	1.5	2.6	26	Northern California
+us	b000fs5g	5	"Monday, March 25, 2013 05:55:05 UTC"	-59.61	-26.38	5.1	10	24	South Sandwich Islands region
+pr	13084002	0	"Monday, March 25, 2013 05:47:13 UTC"	18.88	-66.8	2.7	16	13	Puerto Rico region
+us	b000fs5c	6	"Monday, March 25, 2013 05:25:29 UTC"	-16.61	-171.84	5.2	10	43	Samoa Islands region
+ak	10680617	2	"Monday, March 25, 2013 05:10:48 UTC"	62.17	-150.37	1.9	7.5	41	Central Alaska
+ak	10682501	2	"Monday, March 25, 2013 04:57:00 UTC"	62.25	-151.07	1.4	81.6	24	Central Alaska
+ci	15313817	2	"Monday, March 25, 2013 04:46:39 UTC"	34	-117.17	1	4.8	26	"Greater Los Angeles area, California"
+nc	71960080	2	"Monday, March 25, 2013 04:44:19 UTC"	39.4	-123.26	1.3	8.9	11	Northern California
+hv	60482256	2	"Monday, March 25, 2013 04:41:23 UTC"	19.36	-155.23	2.3	3.3	17	"Island of Hawaii, Hawaii"
+pr	13084001	0	"Monday, March 25, 2013 04:36:02 UTC"	18.29	-69.06	4	99	28	Dominican Republic region
+us	b000fs56	5	"Monday, March 25, 2013 04:35:19 UTC"	-17.91	-178.54	4.2	590.2	34	Fiji region
+ci	15313801	2	"Monday, March 25, 2013 04:32:55 UTC"	33.5	-116.46	1.1	10.4	36	Southern California
+nc	71960070	3	"Monday, March 25, 2013 04:31:07 UTC"	36.28	-120.41	1.6	10	42	Central California
+nc	71960055	0	"Monday, March 25, 2013 04:07:03 UTC"	38.8	-122.81	1	2.1	18	Northern California
+us	b000fs4y	6	"Monday, March 25, 2013 03:59:52 UTC"	-17.66	-178.41	5.2	539.7	46	Fiji region
+nc	71960050	3	"Monday, March 25, 2013 03:58:22 UTC"	38.83	-122.8	1.5	2.1	53	Northern California
+nc	71960045	3	"Monday, March 25, 2013 03:54:22 UTC"	39.62	-120.01	1.2	4.5	21	Northern California
+nc	71960035	0	"Monday, March 25, 2013 03:50:16 UTC"	38.83	-122.8	1.2	2.6	21	Northern California
+nn	407209	1	"Monday, March 25, 2013 03:38:23 UTC"	39.42	-119.85	1	10.4	20	Nevada
+ak	10682500	2	"Monday, March 25, 2013 03:32:08 UTC"	62.87	-150.91	1.2	98	22	Central Alaska
+ak	10680574	2	"Monday, March 25, 2013 03:24:19 UTC"	54.03	-163.54	2.4	49.4	26	"Unimak Island region, Alaska"
+nc	71960020	3	"Monday, March 25, 2013 03:22:47 UTC"	39.62	-120.01	1.1	4.6	18	Northern California
+ak	10682498	2	"Monday, March 25, 2013 03:19:48 UTC"	63.63	-149.71	1.3	123.2	18	Central Alaska
+nc	71960015	0	"Monday, March 25, 2013 03:18:00 UTC"	39.62	-120	1.7	5.2	16	Northern California
+ak	10680567	2	"Monday, March 25, 2013 03:16:48 UTC"	60.48	-149.55	1.6	21.4	23	"Kenai Peninsula, Alaska"
+nc	71960010	1	"Monday, March 25, 2013 03:04:40 UTC"	38.83	-122.8	1.4	2.5	24	Northern California
+ci	15313793	2	"Monday, March 25, 2013 03:03:30 UTC"	35.25	-118.52	1.2	9.4	24	Central California
+us	b000fs4s	5	"Monday, March 25, 2013 02:17:56 UTC"	51.52	-177.16	4.2	47.4	60	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10682495	2	"Monday, March 25, 2013 02:09:44 UTC"	63.17	-149.75	1.2	92	18	Central Alaska
+nn	407189	1	"Monday, March 25, 2013 02:02:55 UTC"	39.62	-120.01	1	6.7	19	Northern California
+ak	10682494	2	"Monday, March 25, 2013 02:00:41 UTC"	62.78	-149.41	1.1	73	14	Central Alaska
+nc	71959990	5	"Monday, March 25, 2013 01:57:32 UTC"	35.15	-120.89	1.2	5	29	offshore Central California
+nc	71959975	2	"Monday, March 25, 2013 01:40:18 UTC"	39.26	-123.2	1.3	7	16	Northern California
+ak	10682493	2	"Monday, March 25, 2013 01:39:57 UTC"	62.63	-148.55	1	11.8	22	Central Alaska
+nc	71959955	0	"Monday, March 25, 2013 01:19:02 UTC"	37.63	-118.92	1	8.4	13	"Long Valley area, California"
+ak	10680533	3	"Monday, March 25, 2013 01:16:00 UTC"	62.63	-148.54	3.3	5.5	78	Central Alaska
+nc	71959950	0	"Monday, March 25, 2013 01:15:46 UTC"	38.75	-122.72	1	1.6	11	Northern California
+nc	71959940	0	"Monday, March 25, 2013 01:05:47 UTC"	38.85	-122.81	1	1.2	5	Northern California
+ak	10680528	2	"Monday, March 25, 2013 01:05:14 UTC"	60.94	-150.85	1.6	15	28	"Kenai Peninsula, Alaska"
+nn	407172	1	"Monday, March 25, 2013 00:56:43 UTC"	39.42	-119.85	1.8	10.1	24	Nevada
+ci	15313737	2	"Monday, March 25, 2013 00:56:42 UTC"	33.98	-116.27	1.2	1.7	39	Southern California
+pr	13084000	0	"Monday, March 25, 2013 00:42:47 UTC"	18.53	-68.19	2.7	100	6	"Mona Passage, Dominican Republic"
+ak	10682490	2	"Monday, March 25, 2013 00:38:14 UTC"	55.64	-152.04	3.3	20.3	41	south of Alaska
+nc	71959925	0	"Monday, March 25, 2013 00:27:40 UTC"	38.78	-122.73	1	2.5	18	Northern California
+us	b000fs42	8	"Monday, March 25, 2013 00:02:12 UTC"	51.76	-169	4.9	45.8	168	"Fox Islands, Aleutian Islands, Alaska"
+us	b000fs41	4	"Monday, March 25, 2013 00:00:04 UTC"	12.02	-88.01	4.6	35.1	20	near the coast of Nicaragua
+ak	10680499	2	"Sunday, March 24, 2013 23:56:26 UTC"	51.53	-175.32	1.4	16.5	13	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10680496	2	"Sunday, March 24, 2013 23:54:01 UTC"	61.48	-147.67	1.7	13.6	25	Southern Alaska
+nc	71961020	2	"Sunday, March 24, 2013 23:47:17 UTC"	40.71	-121.18	1.3	7.1	10	Northern California
+us	b000fs3s	5	"Sunday, March 24, 2013 23:43:57 UTC"	37.48	143.81	4.4	35	19	"off the east coast of Honshu, Japan"
+ci	15313689	1	"Sunday, March 24, 2013 23:35:01 UTC"	33.5	-116.47	1.1	9.1	36	Southern California
+ci	15313681	2	"Sunday, March 24, 2013 23:32:25 UTC"	35.04	-117.67	1.5	0	17	Southern California
+nc	71959885	3	"Sunday, March 24, 2013 22:56:12 UTC"	40.27	-124.48	2.1	19.4	25	offshore Northern California
+ci	15313665	2	"Sunday, March 24, 2013 22:48:42 UTC"	34	-117.17	1.1	4.4	35	"Greater Los Angeles area, California"
+ci	15313657	1	"Sunday, March 24, 2013 22:39:54 UTC"	35.83	-117.68	1.2	2.6	18	Central California
+ak	10681947	2	"Sunday, March 24, 2013 22:32:36 UTC"	63.23	-150.39	1.3	117.3	18	Central Alaska
+nn	407134	1	"Sunday, March 24, 2013 22:15:29 UTC"	39.42	-119.85	1.1	10.1	21	Nevada
+ci	15313649	1	"Sunday, March 24, 2013 22:03:06 UTC"	34.01	-117.17	1.5	4.1	63	"Greater Los Angeles area, California"
+nn	407130	1	"Sunday, March 24, 2013 21:57:41 UTC"	39.62	-120	1	6.4	12	Northern California
+nc	71959840	4	"Sunday, March 24, 2013 21:50:51 UTC"	39.91	-122.95	1.3	7	15	Northern California
+ak	10680469	2	"Sunday, March 24, 2013 21:30:13 UTC"	63.07	-151.46	1.3	6.4	17	Central Alaska
+ak	10680463	2	"Sunday, March 24, 2013 21:26:20 UTC"	59.34	-136.73	2.3	9.4	12	Southeastern Alaska
+nn	407150	1	"Sunday, March 24, 2013 21:22:33 UTC"	39.42	-119.85	1.3	10.3	18	Nevada
+nn	407124	1	"Sunday, March 24, 2013 21:22:08 UTC"	39.42	-119.85	1.3	10.1	22	Nevada
+nn	407121	1	"Sunday, March 24, 2013 21:20:29 UTC"	39.42	-119.85	2.2	9.2	23	Nevada
+ak	10680456	2	"Sunday, March 24, 2013 21:20:15 UTC"	60.37	-149.63	1.3	33.4	14	"Kenai Peninsula, Alaska"
+nn	407120	1	"Sunday, March 24, 2013 21:19:52 UTC"	39.42	-119.86	1.2	11.9	19	Nevada
+us	b000fs2k	7	"Sunday, March 24, 2013 21:19:43 UTC"	-7.17	148	4.9	82.2	45	"eastern New Guinea region, Papua New Guinea"
+nn	407116	1	"Sunday, March 24, 2013 21:18:56 UTC"	39.42	-119.85	1.5	11.7	25	Nevada
+ak	10680451	3	"Sunday, March 24, 2013 21:15:39 UTC"	52.82	-168.01	2.8	7.2	18	"Fox Islands, Aleutian Islands, Alaska"
+uw	60512476	1	"Sunday, March 24, 2013 21:11:09 UTC"	49.45	-120.48	2.3	0	10	"British Columbia, Canada"
+nn	407123	1	"Sunday, March 24, 2013 21:06:37 UTC"	39.42	-119.85	1.6	10.6	22	Nevada
+nc	71961010	2	"Sunday, March 24, 2013 21:01:32 UTC"	41.02	-121.53	1	6.6	7	Northern California
+us	b000fs2c	6	"Sunday, March 24, 2013 21:00:13 UTC"	-12.4	166.01	5.1	44.2	48	Santa Cruz Islands
+ak	10680444	2	"Sunday, March 24, 2013 20:56:16 UTC"	65.84	-142.9	1.8	8.6	14	northern Alaska
+nc	71959795	0	"Sunday, March 24, 2013 20:51:32 UTC"	36.57	-121.08	1.4	9.4	7	Central California
+ak	10680440	2	"Sunday, March 24, 2013 20:26:31 UTC"	64.92	-148.98	1.1	17.5	22	Central Alaska
+uw	60512466	1	"Sunday, March 24, 2013 20:25:09 UTC"	42.61	-122.39	1.9	1.4	18	Oregon
+nc	71959775	0	"Sunday, March 24, 2013 19:51:42 UTC"	38.83	-122.78	1.2	1.9	19	Northern California
+nc	71959765	3	"Sunday, March 24, 2013 19:47:00 UTC"	35.73	-121.28	1.8	11.7	31	Central California
+ci	15313593	2	"Sunday, March 24, 2013 19:46:48 UTC"	34.52	-118.15	1	9.6	15	Southern California
+uw	60512461	1	"Sunday, March 24, 2013 19:28:13 UTC"	42.61	-122.4	2.7	9.2	28	Oregon
+us	b000fs1n	4	"Sunday, March 24, 2013 19:27:32 UTC"	-21.5	169.98	5.2	92.3	40	southeast of the Loyalty Islands
+ak	10680419	2	"Sunday, March 24, 2013 19:12:56 UTC"	59.94	-152.65	2.3	101.7	49	Southern Alaska
+nc	71959735	1	"Sunday, March 24, 2013 18:51:51 UTC"	38.81	-122.81	1.8	2	36	Northern California
+uw	60512451	1	"Sunday, March 24, 2013 18:46:05 UTC"	42.61	-122.4	2.6	5.8	30	Oregon
+ak	10680411	2	"Sunday, March 24, 2013 18:32:33 UTC"	61.47	-140.61	1.5	13.6	11	"Southern Yukon Territory, Canada"
+ak	10681938	2	"Sunday, March 24, 2013 18:13:45 UTC"	62.63	-148.83	1	66.3	11	Central Alaska
+nc	71959715	0	"Sunday, March 24, 2013 18:10:54 UTC"	37.63	-118.93	1.3	8.6	20	"Long Valley area, California"
+ak	10680404	2	"Sunday, March 24, 2013 18:09:44 UTC"	62.18	-150.37	2.1	5.7	50	Central Alaska
+ak	10680402	2	"Sunday, March 24, 2013 18:01:21 UTC"	51.64	-177.32	1.5	58.5	11	"Andreanof Islands, Aleutian Islands, Alaska"
+nc	71959710	3	"Sunday, March 24, 2013 17:51:58 UTC"	36.61	-121.22	2	4.6	54	Central California
+ak	10680395	2	"Sunday, March 24, 2013 17:41:10 UTC"	61.04	-150.38	1.5	33.6	30	Southern Alaska
+us	b000fs0l	8	"Sunday, March 24, 2013 17:28:23 UTC"	11.85	-60.14	4.8	46.2	86	"Tobago region, Trinidad and Tobago"
+nc	71959700	D	"Sunday, March 24, 2013 17:25:40 UTC"	40.61	-124.96	4.3	14	34	offshore Northern California
+ak	10680382	2	"Sunday, March 24, 2013 17:21:02 UTC"	60.15	-152.65	3	82.7	73	Southern Alaska
+ak	10680369	2	"Sunday, March 24, 2013 16:46:39 UTC"	61.57	-149.73	2.2	33.2	61	Southern Alaska
+nc	71959665	3	"Sunday, March 24, 2013 16:43:51 UTC"	35.58	-120.83	2.8	6.5	98	Central California
+ak	10680365	2	"Sunday, March 24, 2013 16:35:01 UTC"	59.71	-150.23	1.7	30.2	29	"Kenai Peninsula, Alaska"
+nc	71959655	3	"Sunday, March 24, 2013 16:29:43 UTC"	39.62	-120.01	1	4.4	19	Northern California
+us	2013ndat	4	"Sunday, March 24, 2013 16:23:43 UTC"	0.63	-25.86	4.9	10	36	central Mid-Atlantic Ridge
+ak	10680355	2	"Sunday, March 24, 2013 16:12:13 UTC"	63.53	-147.31	1	66.5	20	Central Alaska
+nc	71959645	3	"Sunday, March 24, 2013 16:04:36 UTC"	37.57	-119	2.1	2.5	44	Central California
+pr	13083004	2	"Sunday, March 24, 2013 16:03:27 UTC"	18.5	-65.28	3.9	96	37	Puerto Rico region
+ak	10680348	2	"Sunday, March 24, 2013 15:56:03 UTC"	62.07	-145.22	1.1	14.7	8	Central Alaska
+ak	10680340	2	"Sunday, March 24, 2013 15:49:11 UTC"	60.92	-150.9	1.6	15	34	"Kenai Peninsula, Alaska"
+us	2013ndas	6	"Sunday, March 24, 2013 15:47:22 UTC"	37.79	16.48	4.5	26.1	59	Ionian Sea
+uw	60512396	2	"Sunday, March 24, 2013 15:41:06 UTC"	48.87	-122.17	1.9	5.9	15	Washington
+nc	71959630	3	"Sunday, March 24, 2013 15:40:55 UTC"	39.62	-120.01	2.2	4.7	27	Northern California
+ak	10680321	2	"Sunday, March 24, 2013 15:24:30 UTC"	60.91	-150.83	2.7	11.9	56	"Kenai Peninsula, Alaska"
+ak	10680315	2	"Sunday, March 24, 2013 15:19:57 UTC"	61.98	-150.07	2.4	43	70	Southern Alaska
+ci	15313505	2	"Sunday, March 24, 2013 15:09:41 UTC"	34	-117.17	1.1	4.7	50	"Greater Los Angeles area, California"
+ak	10680303	2	"Sunday, March 24, 2013 14:57:57 UTC"	62.13	-148.02	1.3	28.3	31	Central Alaska
+ak	10680297	2	"Sunday, March 24, 2013 14:40:07 UTC"	63.53	-146.53	1.1	12.6	18	Central Alaska
+ak	10680291	2	"Sunday, March 24, 2013 14:35:38 UTC"	62.16	-150.37	1.4	7.5	32	Central Alaska
+ak	10680287	2	"Sunday, March 24, 2013 14:22:17 UTC"	62.16	-150.34	1.6	5	37	Central Alaska
+ci	37125643	2	"Sunday, March 24, 2013 14:09:04 UTC"	32.6	-117.08	1.2	11	15	"San Diego County urban area, California"
+nc	71959605	0	"Sunday, March 24, 2013 14:07:39 UTC"	38.83	-122.79	1.4	2	19	Northern California
+nc	71959590	0	"Sunday, March 24, 2013 13:49:32 UTC"	38.84	-122.87	1.3	9.5	6	Northern California
+ak	10681919	2	"Sunday, March 24, 2013 13:37:07 UTC"	59.57	-153.39	2	118.4	26	Southern Alaska
+pr	13083003	0	"Sunday, March 24, 2013 13:36:09 UTC"	18.04	-65.59	1.9	21	5	Puerto Rico region
+ak	10681918	2	"Sunday, March 24, 2013 13:33:53 UTC"	62.63	-151.14	1.2	89.3	10	Central Alaska
+ci	15313449	2	"Sunday, March 24, 2013 13:23:19 UTC"	34	-116.83	1	20.6	33	Southern California
+ak	10681917	2	"Sunday, March 24, 2013 13:09:49 UTC"	63.38	-150.15	1.1	118.4	12	Central Alaska
+us	b000fryf	5	"Sunday, March 24, 2013 12:49:02 UTC"	29.59	138.49	4.4	479.2	33	"Izu Islands, Japan region"
+uw	60512386	2	"Sunday, March 24, 2013 12:28:54 UTC"	42.61	-122.4	2.5	9.2	27	Oregon
+nc	71959555	3	"Sunday, March 24, 2013 12:21:11 UTC"	37.57	-118.99	2.3	2.9	46	Central California
+ak	10680271	2	"Sunday, March 24, 2013 12:19:54 UTC"	54.41	-161.77	3.1	17.4	21	Alaska Peninsula
+ak	10681915	2	"Sunday, March 24, 2013 12:19:26 UTC"	62.61	-151.2	1.3	85.6	16	Central Alaska
+uw	60512376	2	"Sunday, March 24, 2013 12:04:48 UTC"	42.6	-122.4	2.3	17.2	28	Oregon
+us	b000fry3	7	"Sunday, March 24, 2013 11:43:18 UTC"	51.59	156.7	4.4	174.7	37	"Kamchatka Peninsula, Russia"
+nc	71959535	0	"Sunday, March 24, 2013 11:39:21 UTC"	37.64	-118.92	1	9.2	13	"Long Valley area, California"
+uw	60512366	2	"Sunday, March 24, 2013 11:39:04 UTC"	42.61	-122.41	3.1	15.7	36	Oregon
+ci	15313409	1	"Sunday, March 24, 2013 11:38:19 UTC"	32.65	-115.79	1.1	9.8	17	Southern California
+nn	407021	1	"Sunday, March 24, 2013 11:26:30 UTC"	37.02	-117.12	1.2	19.2	7	Nevada
+ci	15313393	1	"Sunday, March 24, 2013 11:12:18 UTC"	32.63	-115.72	2.1	0.1	24	"Baja California, Mexico"
+nc	71959525	0	"Sunday, March 24, 2013 11:02:03 UTC"	37.61	-118.88	1	27.4	9	"Long Valley area, California"
+ak	10680254	2	"Sunday, March 24, 2013 10:55:37 UTC"	63.62	-147.53	1.4	84.1	42	Central Alaska
+ak	10680253	2	"Sunday, March 24, 2013 10:50:04 UTC"	63.06	-151.57	1.3	8.3	27	Central Alaska
+ak	10680250	3	"Sunday, March 24, 2013 10:37:15 UTC"	52.31	-170.01	3	4.8	9	"Fox Islands, Aleutian Islands, Alaska"
+nc	71959520	3	"Sunday, March 24, 2013 10:34:04 UTC"	39.62	-120	1.1	5	21	Northern California
+nc	71959515	0	"Sunday, March 24, 2013 10:31:11 UTC"	37.64	-118.92	1.3	8.4	18	"Long Valley area, California"
+us	b000frxm	B	"Sunday, March 24, 2013 10:29:20 UTC"	16.15	-93.07	4.1	169.4	36	"Chiapas, Mexico"
+uw	60512356	2	"Sunday, March 24, 2013 10:23:04 UTC"	48.11	-124.94	1.9	42.1	33	offshore Washington
+us	b000frxj	5	"Sunday, March 24, 2013 10:12:03 UTC"	38.89	-107.34	2.5	1	33	Colorado
+us	b000frxi	5	"Sunday, March 24, 2013 10:04:13 UTC"	50.75	160.12	4.3	9.6	88	east of the Kuril Islands
+pr	13083002	0	"Sunday, March 24, 2013 09:43:48 UTC"	19.64	-64.05	3.4	46	8	Virgin Islands region
+ak	10680237	2	"Sunday, March 24, 2013 09:36:24 UTC"	61.07	-151.52	1.7	73.3	38	Southern Alaska
+ak	10680234	2	"Sunday, March 24, 2013 09:29:16 UTC"	60.82	-150.97	1.3	57.5	16	"Kenai Peninsula, Alaska"
+ak	10680233	2	"Sunday, March 24, 2013 09:26:34 UTC"	62.96	-150.77	1.3	100.1	18	Central Alaska
+uw	60512336	3	"Sunday, March 24, 2013 09:18:52 UTC"	42.61	-122.4	1.8	17.1	23	Oregon
+ci	15313345	1	"Sunday, March 24, 2013 09:17:35 UTC"	34	-117.17	1	2.6	39	"Greater Los Angeles area, California"
+nc	71959440	3	"Sunday, March 24, 2013 09:13:34 UTC"	37.63	-118.92	2.1	8.4	41	"Long Valley area, California"
+ak	10680227	2	"Sunday, March 24, 2013 09:09:44 UTC"	61.49	-149.92	1.3	47.4	14	Southern Alaska
+nc	71959410	0	"Sunday, March 24, 2013 08:51:51 UTC"	37.63	-118.92	1.2	7.7	14	"Long Valley area, California"
+nc	71959400	0	"Sunday, March 24, 2013 08:50:00 UTC"	37.63	-118.92	1.5	1.3	7	"Long Valley area, California"
+nc	71959395	0	"Sunday, March 24, 2013 08:49:47 UTC"	37.64	-118.92	1.2	7.7	14	"Long Valley area, California"
+nc	71959385	0	"Sunday, March 24, 2013 08:44:50 UTC"	37.64	-118.92	1.5	8.3	23	"Long Valley area, California"
+nc	71959365	3	"Sunday, March 24, 2013 08:36:45 UTC"	37.63	-118.92	1.9	8.7	43	"Long Valley area, California"
+nc	71959355	2	"Sunday, March 24, 2013 08:32:49 UTC"	37.63	-118.92	1.5	8.3	37	"Long Valley area, California"
+nc	71959340	2	"Sunday, March 24, 2013 08:30:59 UTC"	37.63	-118.92	1.7	7.9	33	"Long Valley area, California"
+nc	71959335	2	"Sunday, March 24, 2013 08:30:32 UTC"	37.63	-118.93	1.1	7.3	26	"Long Valley area, California"
+nc	71959330	5	"Sunday, March 24, 2013 08:29:07 UTC"	37.64	-118.92	3.1	8.2	50	"Long Valley area, California"
+nc	71959320	0	"Sunday, March 24, 2013 08:26:03 UTC"	37.64	-118.92	1.4	8.7	17	"Long Valley area, California"
+nc	71959315	0	"Sunday, March 24, 2013 08:25:54 UTC"	37.63	-118.93	1.2	7.6	9	"Long Valley area, California"
+ci	15313281	1	"Sunday, March 24, 2013 08:23:29 UTC"	33.7	-116.82	1.4	16.7	56	Southern California
+us	b000frwy	7	"Sunday, March 24, 2013 08:13:44 UTC"	-20.77	173.4	6	10	55	Vanuatu region
+ak	10680194	2	"Sunday, March 24, 2013 08:00:30 UTC"	61.21	-146.96	1.3	0	7	Southern Alaska
+uw	60512326	3	"Sunday, March 24, 2013 08:00:11 UTC"	42.62	-122.4	2.6	9.5	32	Oregon
+ak	10680189	2	"Sunday, March 24, 2013 07:53:00 UTC"	61.31	-150.31	1.8	46.6	45	Southern Alaska
+nc	71959270	0	"Sunday, March 24, 2013 07:52:44 UTC"	37.64	-118.92	1.2	8.9	14	"Long Valley area, California"
+nn	407008	1	"Sunday, March 24, 2013 07:51:46 UTC"	38.02	-118.03	1.5	4.6	12	Nevada
+us	b000frwr	5	"Sunday, March 24, 2013 07:30:24 UTC"	-13.68	-74.11	4.5	56.5	16	central Peru
+pr	13083001	0	"Sunday, March 24, 2013 07:25:39 UTC"	17.98	-65.39	2.5	18	4	Puerto Rico region
+ci	15313257	2	"Sunday, March 24, 2013 07:16:39 UTC"	34.49	-118.06	1	12	12	Southern California
+ci	15313241	1	"Sunday, March 24, 2013 07:02:31 UTC"	33.51	-116.46	1.2	13	42	Southern California
+ak	10680184	2	"Sunday, March 24, 2013 06:59:54 UTC"	60.19	-152.57	1.7	86.2	15	Southern Alaska
+ak	10681901	2	"Sunday, March 24, 2013 06:53:45 UTC"	66.34	-147.61	1	4.5	10	northern Alaska
+nc	71959255	1	"Sunday, March 24, 2013 06:44:49 UTC"	38.82	-122.82	1.7	3	35	Northern California
+ak	10680179	2	"Sunday, March 24, 2013 06:38:24 UTC"	61.59	-148.61	1	31	24	Southern Alaska
+ci	15313217	3	"Sunday, March 24, 2013 06:28:17 UTC"	34.22	-117.02	1.2	2	38	Southern California
+uu	60016792	3	"Sunday, March 24, 2013 06:11:28 UTC"	44.56	-110.75	1.2	2.4	10	"Yellowstone National Park, Wyoming"
+uu	60016787	2	"Sunday, March 24, 2013 06:07:01 UTC"	44.56	-110.74	1.4	5.8	8	"Yellowstone National Park, Wyoming"
+pr	13083000	0	"Sunday, March 24, 2013 05:57:18 UTC"	19.06	-68.38	3.3	71	9	Dominican Republic region
+uu	60001020	2	"Sunday, March 24, 2013 05:52:05 UTC"	44.56	-110.75	2.4	4.7	13	"Yellowstone National Park, Wyoming"
+uu	60016777	2	"Sunday, March 24, 2013 05:51:48 UTC"	44.56	-110.74	1.7	2.1	12	"Yellowstone National Park, Wyoming"
+ak	10680171	2	"Sunday, March 24, 2013 05:51:17 UTC"	61.79	-148.11	1.6	24.9	43	Southern Alaska
+uu	60016772	2	"Sunday, March 24, 2013 05:48:26 UTC"	44.57	-110.7	1.2	4.9	8	"Yellowstone National Park, Wyoming"
+uu	60001000	2	"Sunday, March 24, 2013 05:42:42 UTC"	44.57	-110.76	1.5	7.1	12	"Yellowstone National Park, Wyoming"
+uu	60016757	2	"Sunday, March 24, 2013 05:42:13 UTC"	44.56	-110.75	1.2	1.8	12	"Yellowstone National Park, Wyoming"
+uu	60016752	2	"Sunday, March 24, 2013 05:37:54 UTC"	44.56	-110.76	1.5	4.9	8	"Yellowstone National Park, Wyoming"
+nc	71959235	0	"Sunday, March 24, 2013 05:13:00 UTC"	38.81	-122.81	1	3.2	19	Northern California
+ak	10680165	2	"Sunday, March 24, 2013 05:07:54 UTC"	63.08	-150.73	1.4	120	34	Central Alaska
+ak	10680158	2	"Sunday, March 24, 2013 04:51:04 UTC"	61.33	-147.22	1.3	9.4	18	Southern Alaska
+ak	10680154	2	"Sunday, March 24, 2013 04:48:57 UTC"	59.78	-152.14	2.5	59.8	63	Southern Alaska
+ak	10680151	2	"Sunday, March 24, 2013 04:46:21 UTC"	63.93	-148.82	1.7	0	33	Central Alaska
+nc	71959220	0	"Sunday, March 24, 2013 04:28:54 UTC"	38.83	-122.79	1.2	2.4	15	Northern California
+nc	71959225	2	"Sunday, March 24, 2013 04:28:54 UTC"	38.83	-122.8	1.1	2.7	25	Northern California
+ak	10680128	2	"Sunday, March 24, 2013 04:19:37 UTC"	53.31	-167.26	2.5	15.1	18	"Fox Islands, Aleutian Islands, Alaska"
+us	b000frv8	7	"Sunday, March 24, 2013 04:18:34 UTC"	50.71	160.15	6.1	9.7	98	east of the Kuril Islands
+ak	10680122	2	"Sunday, March 24, 2013 04:05:33 UTC"	62.34	-149.58	1.4	51.2	34	Central Alaska
+us	b000frv4	6	"Sunday, March 24, 2013 03:47:32 UTC"	33.42	95.39	4.5	29.8	23	"southern Qinghai, China"
+ak	10680110	2	"Sunday, March 24, 2013 03:09:45 UTC"	62.09	-145.23	1.5	16.2	30	Central Alaska
+ci	15313129	1	"Sunday, March 24, 2013 03:08:16 UTC"	33.49	-116.45	1.3	12.7	44	Southern California
+ci	15313113	1	"Sunday, March 24, 2013 03:06:43 UTC"	33.49	-116.45	1.3	13.8	36	Southern California
+ak	10681890	2	"Sunday, March 24, 2013 03:04:41 UTC"	62.94	-149.49	1.2	70.4	19	Central Alaska
+us	b000fruf	4	"Sunday, March 24, 2013 02:44:31 UTC"	-3.49	144.76	4.5	48.6	16	"near the north coast of New Guinea, Papua New Guinea"
+ak	10681889	2	"Sunday, March 24, 2013 02:36:56 UTC"	61.77	-154.31	1.2	0.6	9	Southern Alaska
+ak	10680098	2	"Sunday, March 24, 2013 02:33:07 UTC"	59.72	-152.46	2	70.2	35	Southern Alaska
+us	b000fru5	7	"Sunday, March 24, 2013 02:26:31 UTC"	-6.87	148.5	4.8	59.1	35	"New Britain region, Papua New Guinea"
+ak	10680096	2	"Sunday, March 24, 2013 02:26:06 UTC"	60.35	-152.73	2	114.7	35	Southern Alaska
+ci	15313081	1	"Sunday, March 24, 2013 02:23:35 UTC"	33.46	-116.88	1.2	15.4	38	Southern California
+nc	71959165	3	"Sunday, March 24, 2013 02:18:31 UTC"	39.62	-120	1.6	4.8	29	Northern California
+ak	10680093	2	"Sunday, March 24, 2013 02:18:13 UTC"	62.9	-148.47	1.1	61.2	16	Central Alaska
+ak	10680092	2	"Sunday, March 24, 2013 02:13:37 UTC"	61.05	-152.37	1.7	114.1	23	Southern Alaska
+ak	10680089	2	"Sunday, March 24, 2013 01:58:10 UTC"	65.22	-140.97	2.2	7.9	10	"northern Yukon Territory, Canada"
+nc	71959155	1	"Sunday, March 24, 2013 01:55:52 UTC"	38.77	-122.73	1.4	2.8	24	Northern California
+ak	10680082	2	"Sunday, March 24, 2013 01:50:50 UTC"	63.94	-148.77	1.3	111.7	36	Central Alaska
+ak	10680076	2	"Sunday, March 24, 2013 01:41:40 UTC"	60.07	-152.95	3.3	110.4	100	Southern Alaska
+us	b000frtb	7	"Sunday, March 24, 2013 01:35:57 UTC"	-6.76	148.36	4.9	62.7	51	"New Britain region, Papua New Guinea"
+ak	10680070	2	"Sunday, March 24, 2013 01:30:02 UTC"	61.47	-140.65	2.1	0	27	"Southern Yukon Territory, Canada"
+nn	406990	1	"Sunday, March 24, 2013 01:29:01 UTC"	39.61	-120	2.3	5.5	19	Northern California
+nc	71959145	2	"Sunday, March 24, 2013 01:28:56 UTC"	39.62	-120.01	2	4.8	25	Northern California
+ak	10681878	2	"Sunday, March 24, 2013 01:10:45 UTC"	62.33	-150.13	1.2	9.3	16	Central Alaska
+ak	10680058	2	"Sunday, March 24, 2013 01:05:46 UTC"	63.21	-145	1.5	3.3	29	Central Alaska
+ak	10680050	2	"Sunday, March 24, 2013 00:49:20 UTC"	61.3	-147	2.7	28.3	78	Southern Alaska
+nc	71959125	3	"Sunday, March 24, 2013 00:32:21 UTC"	35.64	-120.31	1.9	12.1	72	Central California
+nc	71959120	1	"Sunday, March 24, 2013 00:28:23 UTC"	38.82	-122.82	1.2	3.1	29	Northern California
+nc	71959115	3	"Sunday, March 24, 2013 00:20:47 UTC"	39.62	-120	1.7	4.8	29	Northern California
+ak	10680041	2	"Sunday, March 24, 2013 00:17:58 UTC"	52.18	-175.25	3.6	80.6	23	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10683062	2	"Saturday, March 23, 2013 23:54:19 UTC"	61.44	-146.12	1.1	30.9	10	Southern Alaska
+pr	13082004	0	"Saturday, March 23, 2013 23:31:08 UTC"	19.21	-64.77	3.1	52	7	Virgin Islands region
+ak	10680033	2	"Saturday, March 23, 2013 23:14:22 UTC"	63.74	-146.62	1.1	18.5	19	Central Alaska
+ci	15313017	2	"Saturday, March 23, 2013 23:11:51 UTC"	33.77	-116.71	1	16.2	28	Southern California
+ak	10683059	2	"Saturday, March 23, 2013 22:45:46 UTC"	64.95	-154.81	1.3	40.2	9	Central Alaska
+ak	10683058	2	"Saturday, March 23, 2013 22:41:42 UTC"	63.25	-150.7	1.3	124.1	17	Central Alaska
+us	b000frs6	5	"Saturday, March 23, 2013 22:37:34 UTC"	-15.86	-71.91	4.7	12.3	35	southern Peru
+ak	10683057	2	"Saturday, March 23, 2013 22:36:00 UTC"	60.1	-153.1	2.1	123.7	14	Southern Alaska
+ak	10680024	2	"Saturday, March 23, 2013 22:20:07 UTC"	61.33	-151.93	2.1	113.5	39	Southern Alaska
+nc	71959085	0	"Saturday, March 23, 2013 22:11:02 UTC"	36.58	-121.18	1.6	7.6	11	Central California
+ci	15312985	2	"Saturday, March 23, 2013 21:56:41 UTC"	34	-117.18	1.1	6.9	32	"Greater Los Angeles area, California"
+ak	10683055	2	"Saturday, March 23, 2013 21:14:13 UTC"	61.04	-152.18	1.8	127.6	13	Southern Alaska
+ak	10683054	2	"Saturday, March 23, 2013 20:57:15 UTC"	60.35	-152.53	1.6	107.8	9	Southern Alaska
+ak	10683052	2	"Saturday, March 23, 2013 20:49:47 UTC"	65.67	-143.78	1.6	8.2	14	northern Alaska
+nc	71959060	2	"Saturday, March 23, 2013 20:37:59 UTC"	40.24	-121.38	1.6	4.1	10	Northern California
+ak	10680010	2	"Saturday, March 23, 2013 20:34:07 UTC"	60.07	-152.06	1.7	69.1	16	Southern Alaska
+ak	10683050	2	"Saturday, March 23, 2013 20:31:58 UTC"	59.62	-152.76	1.4	79.7	9	Southern Alaska
+pr	13082003	0	"Saturday, March 23, 2013 20:27:48 UTC"	18.42	-64.77	2.6	88	6	Virgin Islands region
+ak	10683049	2	"Saturday, March 23, 2013 20:24:54 UTC"	63.26	-151.06	1	4.5	13	Central Alaska
+ak	10680006	2	"Saturday, March 23, 2013 20:20:49 UTC"	60.67	-152.61	2.1	137	16	Southern Alaska
+uw	60512201	2	"Saturday, March 23, 2013 20:15:45 UTC"	49.19	-119.49	2.8	0	18	"British Columbia, Canada"
+ak	10679996	2	"Saturday, March 23, 2013 19:59:15 UTC"	61.86	-150.38	1.6	45.1	27	Southern Alaska
+nc	71959040	0	"Saturday, March 23, 2013 19:58:24 UTC"	38.83	-122.82	1	1.8	16	Northern California
+nc	71959030	0	"Saturday, March 23, 2013 19:56:46 UTC"	38.82	-122.83	1	2.6	21	Northern California
+nc	71959025	3	"Saturday, March 23, 2013 19:55:50 UTC"	38.83	-122.82	2.1	2.3	66	Northern California
+ci	15312905	2	"Saturday, March 23, 2013 19:26:41 UTC"	33.48	-116.44	2.1	9.5	67	Southern California
+pr	13082002	0	"Saturday, March 23, 2013 19:12:10 UTC"	17.97	-68.29	2.6	65	5	Dominican Republic region
+ak	10679988	2	"Saturday, March 23, 2013 19:10:01 UTC"	55.09	-159.48	2.8	35.6	14	Alaska Peninsula
+nc	71959000	1	"Saturday, March 23, 2013 19:09:43 UTC"	38.8	-122.81	1.4	3.1	28	Northern California
+ak	10683045	2	"Saturday, March 23, 2013 19:04:23 UTC"	62.24	-150.17	1.2	14.2	12	Central Alaska
+ak	10679978	2	"Saturday, March 23, 2013 18:31:32 UTC"	63.22	-150.52	1.8	120.7	35	Central Alaska
+nc	71958980	2	"Saturday, March 23, 2013 18:09:48 UTC"	39.41	-120.19	1.4	12.4	25	Northern California
+nn	406890	1	"Saturday, March 23, 2013 17:47:25 UTC"	40.37	-119.54	1.8	0.4	16	Nevada
+ak	10683043	2	"Saturday, March 23, 2013 17:46:34 UTC"	54.27	-162.65	2	11	8	Alaska Peninsula
+ci	15312873	1	"Saturday, March 23, 2013 17:45:00 UTC"	33.04	-116.43	1.3	7.7	16	Southern California
+nm	032313c	A	"Saturday, March 23, 2013 17:33:44 UTC"	35.5	-92.43	1.6	3.9	7	Arkansas
+ak	10679958	2	"Saturday, March 23, 2013 17:27:39 UTC"	62.92	-149.44	1	72.9	16	Central Alaska
+ci	15312857	1	"Saturday, March 23, 2013 17:26:37 UTC"	35.64	-118.01	1.2	9.6	14	Southern California
+ak	10679949	2	"Saturday, March 23, 2013 16:58:55 UTC"	62.3	-148.61	1.7	37.3	37	Central Alaska
+us	b000frlb	9	"Saturday, March 23, 2013 16:58:01 UTC"	-16.81	-173.42	4.7	24.9	38	Tonga
+nc	71958960	5	"Saturday, March 23, 2013 16:56:07 UTC"	40.15	-123.09	2.1	39.3	38	Northern California
+nc	71958955	1	"Saturday, March 23, 2013 16:51:40 UTC"	38.81	-122.81	1.7	3.3	36	Northern California
+us	b000frky	6	"Saturday, March 23, 2013 16:45:55 UTC"	-2.81	139.28	4.8	50.4	61	"near the north coast of Papua, Indonesia"
+ak	10679942	2	"Saturday, March 23, 2013 16:35:23 UTC"	63.36	-151.5	1.5	1	19	Central Alaska
+ci	15312833	2	"Saturday, March 23, 2013 16:20:07 UTC"	36.02	-117.77	1	2.2	21	Central California
+nc	71958940	2	"Saturday, March 23, 2013 16:12:38 UTC"	38.63	-119.78	1.8	0.9	26	Northern California
+ak	10679929	2	"Saturday, March 23, 2013 15:58:30 UTC"	61.21	-151.26	1.4	64.1	19	Southern Alaska
+nc	71958930	0	"Saturday, March 23, 2013 15:49:45 UTC"	38.79	-122.74	1.4	1	21	Northern California
+nc	71958925	2	"Saturday, March 23, 2013 15:45:33 UTC"	38.85	-122.46	1.9	8.5	48	Northern California
+ak	10679920	2	"Saturday, March 23, 2013 15:44:59 UTC"	59.71	-152.16	1.7	82.2	16	Southern Alaska
+nm	032313b	A	"Saturday, March 23, 2013 15:42:36 UTC"	36.47	-89.54	1.6	9	27	southeastern Missouri
+nc	71958915	0	"Saturday, March 23, 2013 15:31:10 UTC"	38.85	-122.47	1.9	7.4	12	Northern California
+ak	10679910	2	"Saturday, March 23, 2013 15:07:03 UTC"	60.24	-152.23	1.8	85.1	12	Southern Alaska
+nc	71958905	2	"Saturday, March 23, 2013 14:58:45 UTC"	37.52	-118.71	1.3	9.5	32	Central California
+nc	71958900	0	"Saturday, March 23, 2013 14:54:26 UTC"	38.78	-122.74	1.4	1.1	24	Northern California
+ci	15312777	2	"Saturday, March 23, 2013 14:39:01 UTC"	33.5	-116.45	1.4	10.7	49	Southern California
+ak	10683036	2	"Saturday, March 23, 2013 14:28:16 UTC"	57.68	-142.68	2.5	4.7	13	Gulf of Alaska
+ak	10679898	2	"Saturday, March 23, 2013 14:14:03 UTC"	63.05	-151.54	1.3	13.9	9	Central Alaska
+ak	10680113	3	"Saturday, March 23, 2013 14:13:46 UTC"	62.08	-151.01	1.5	74.4	18	Central Alaska
+ak	10679880	3	"Saturday, March 23, 2013 13:25:36 UTC"	59.7	-153.49	3.9	122.5	77	Southern Alaska
+ak	10683032	2	"Saturday, March 23, 2013 13:25:04 UTC"	53.04	-166.2	2.2	16.4	9	"Fox Islands, Aleutian Islands, Alaska"
+us	b000frir	3	"Saturday, March 23, 2013 13:14:02 UTC"	-60.68	-19.49	5	10	17	east of the South Sandwich Islands
+ak	10679878	2	"Saturday, March 23, 2013 13:07:29 UTC"	62.56	-151.07	1.1	15.9	14	Central Alaska
+ak	10683030	2	"Saturday, March 23, 2013 13:02:17 UTC"	65.39	-144.73	1	1	9	northern Alaska
+ak	10683029	2	"Saturday, March 23, 2013 12:56:49 UTC"	54.53	-162.1	2	20.5	10	Alaska Peninsula
+nc	71958890	3	"Saturday, March 23, 2013 12:50:53 UTC"	38.83	-122.75	1.8	0.9	50	Northern California
+ak	10679871	2	"Saturday, March 23, 2013 12:46:27 UTC"	61.88	-149.98	1.3	37.1	17	Southern Alaska
+ak	10679867	2	"Saturday, March 23, 2013 12:27:07 UTC"	61.27	-146.83	2	15.9	38	Southern Alaska
+ak	10679865	2	"Saturday, March 23, 2013 12:03:15 UTC"	52.91	-168.33	2.1	50	11	"Fox Islands, Aleutian Islands, Alaska"
+ci	15312729	2	"Saturday, March 23, 2013 11:56:42 UTC"	34.05	-117.29	1.5	16.8	71	"Greater Los Angeles area, California"
+nc	71958875	3	"Saturday, March 23, 2013 11:38:30 UTC"	39.62	-120.01	1.3	4.6	24	Northern California
+nc	71958870	3	"Saturday, March 23, 2013 11:30:29 UTC"	39.62	-120.01	1.3	4.7	23	Northern California
+ak	10679859	2	"Saturday, March 23, 2013 11:22:23 UTC"	60.27	-141.48	1.6	6.6	17	Southern Alaska
+nc	71958860	1	"Saturday, March 23, 2013 11:20:17 UTC"	38.81	-122.82	1.2	2.9	24	Northern California
+nc	71958865	3	"Saturday, March 23, 2013 11:19:00 UTC"	39.62	-120.01	1.1	4.8	24	Northern California
+ak	10679855	2	"Saturday, March 23, 2013 11:17:37 UTC"	51.32	-177.83	1.9	25.6	10	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10679851	2	"Saturday, March 23, 2013 10:47:11 UTC"	53.95	-161.78	2.4	41.6	14	south of Alaska
+ak	10683022	2	"Saturday, March 23, 2013 10:39:18 UTC"	51.39	-178.31	1.6	18.7	10	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10679848	2	"Saturday, March 23, 2013 10:35:14 UTC"	53.92	-165.33	1.8	64.7	12	"Fox Islands, Aleutian Islands, Alaska"
+ak	10683020	2	"Saturday, March 23, 2013 10:27:37 UTC"	67.01	-146.71	1.7	36.5	10	northern Alaska
+ak	10683019	2	"Saturday, March 23, 2013 10:21:03 UTC"	54.18	-162.84	2.2	26.3	8	Alaska Peninsula
+ak	10679842	2	"Saturday, March 23, 2013 10:15:23 UTC"	65.02	-149.49	1.2	17.1	17	northern Alaska
+nc	71958835	2	"Saturday, March 23, 2013 10:10:39 UTC"	37.47	-121.83	1.1	7.8	13	"San Francisco Bay area, California"
+ak	10683017	2	"Saturday, March 23, 2013 10:10:23 UTC"	61.45	-151.06	1.5	48.8	14	Southern Alaska
+nc	71960425	2	"Saturday, March 23, 2013 10:03:32 UTC"	37.24	-119.93	1.7	26.1	14	Central California
+nc	71958825	1	"Saturday, March 23, 2013 09:58:56 UTC"	38.83	-122.8	1.9	1.2	31	Northern California
+ak	10679838	2	"Saturday, March 23, 2013 09:52:49 UTC"	60.99	-147.98	1.4	0	9	Southern Alaska
+nc	71958820	2	"Saturday, March 23, 2013 09:43:33 UTC"	36.61	-121.16	1.3	8.4	25	Central California
+ci	15312705	2	"Saturday, March 23, 2013 09:42:52 UTC"	33.66	-116.72	1.1	15.6	38	Southern California
+ak	10679832	2	"Saturday, March 23, 2013 09:27:08 UTC"	64.76	-149.09	2.1	20.4	26	Central Alaska
+ak	10683014	2	"Saturday, March 23, 2013 09:12:18 UTC"	54.52	-162.13	1.6	25.5	9	Alaska Peninsula
+ak	10679826	2	"Saturday, March 23, 2013 08:59:53 UTC"	61.14	-150.28	1.8	44.4	18	Southern Alaska
+ak	10679827	2	"Saturday, March 23, 2013 08:55:30 UTC"	62.1	-145.07	1.3	17.4	12	Central Alaska
+ak	10679820	2	"Saturday, March 23, 2013 08:51:01 UTC"	61.21	-140.44	2.8	0.5	29	"Southern Yukon Territory, Canada"
+ci	15312689	2	"Saturday, March 23, 2013 08:39:38 UTC"	35.94	-117.66	1.3	2.3	19	Central California
+ci	15312681	1	"Saturday, March 23, 2013 08:28:48 UTC"	36.7	-117.96	1.5	7.5	13	Central California
+nc	71958805	2	"Saturday, March 23, 2013 08:28:45 UTC"	37.98	-121.84	1.6	17.6	18	"San Francisco Bay area, California"
+pr	13082001	0	"Saturday, March 23, 2013 08:19:06 UTC"	18.1	-67.24	2.1	23	3	"Mona Passage, Puerto Rico"
+ak	10683009	2	"Saturday, March 23, 2013 08:15:09 UTC"	60.07	-152.72	1.7	99.9	11	Southern Alaska
+us	b000ftmi	8	"Saturday, March 23, 2013 08:00:12 UTC"	-15.96	-73.82	4.2	35	9	southern Peru
+ci	15312665	2	"Saturday, March 23, 2013 07:56:03 UTC"	33.88	-118.4	2.3	9.8	51	"Greater Los Angeles area, California"
+uu	60016717	3	"Saturday, March 23, 2013 07:06:08 UTC"	37.01	-113.59	2.8	2.8	13	Utah
+ak	10679804	2	"Saturday, March 23, 2013 06:38:53 UTC"	51.9	-173.87	1.7	18.5	8	"Andreanof Islands, Aleutian Islands, Alaska"
+nc	71958765	3	"Saturday, March 23, 2013 06:36:55 UTC"	37.98	-121.84	2.4	18.5	73	"San Francisco Bay area, California"
+nc	71958760	3	"Saturday, March 23, 2013 06:33:24 UTC"	37.97	-122.03	1.2	12	30	"San Francisco Bay area, California"
+ak	10683006	2	"Saturday, March 23, 2013 06:28:50 UTC"	51.37	-177.64	1.8	24.8	8	"Andreanof Islands, Aleutian Islands, Alaska"
+nn	406826	1	"Saturday, March 23, 2013 06:27:03 UTC"	38.01	-118.12	1.7	15.9	16	Nevada
+nc	71958755	2	"Saturday, March 23, 2013 06:18:21 UTC"	37.78	-122.03	1.5	5.5	39	"San Francisco Bay area, California"
+ak	10679791	2	"Saturday, March 23, 2013 05:59:35 UTC"	63.77	-152.25	1.2	9	11	Central Alaska
+us	b000frhf	5	"Saturday, March 23, 2013 05:56:03 UTC"	-17.49	-13.9	4.7	10	29	southern Mid-Atlantic Ridge
+nc	71958745	0	"Saturday, March 23, 2013 05:49:25 UTC"	38.75	-122.71	1	1.4	8	Northern California
+us	b000frhc	7	"Saturday, March 23, 2013 05:28:31 UTC"	-18.73	-175.51	4.5	183.4	46	Tonga
+us	b000frh9	7	"Saturday, March 23, 2013 05:03:07 UTC"	35.36	-96.5	2.9	5.1	43	Oklahoma
+ak	10679773	2	"Saturday, March 23, 2013 04:41:32 UTC"	63.43	-146.4	1.4	19.1	21	Central Alaska
+ak	10683003	2	"Saturday, March 23, 2013 04:31:10 UTC"	59.88	-153.25	2.1	117.1	11	Southern Alaska
+pr	13082000	0	"Saturday, March 23, 2013 04:31:06 UTC"	18.85	-64.84	2.9	18	6	Virgin Islands region
+us	b000frh3	7	"Saturday, March 23, 2013 04:28:34 UTC"	-10.94	165.81	4.9	20.1	43	Santa Cruz Islands
+ci	15312505	1	"Saturday, March 23, 2013 04:25:38 UTC"	33.28	-116.78	1.2	12.1	39	Southern California
+ak	10679766	2	"Saturday, March 23, 2013 04:22:16 UTC"	63.48	-146.43	1.9	20.5	37	Central Alaska
+nc	71958735	0	"Saturday, March 23, 2013 04:18:49 UTC"	38.75	-122.7	1.3	2	13	Northern California
+uw	60512071	4	"Saturday, March 23, 2013 03:58:29 UTC"	46.75	-122.19	1.8	13.6	42	Washington
+hv	60481241	2	"Saturday, March 23, 2013 03:53:17 UTC"	19.25	-155.52	2.1	7.8	39	"Island of Hawaii, Hawaii"
+nc	71070514	2	"Saturday, March 23, 2013 03:52:05 UTC"	39.62	-120	1.8	5.3	18	Northern California
+nc	71958725	2	"Saturday, March 23, 2013 03:51:57 UTC"	39.62	-120.01	1.8	4.4	23	Northern California
+ak	10683001	2	"Saturday, March 23, 2013 03:50:46 UTC"	62.89	-150.82	1.2	98.8	11	Central Alaska
+ak	10683000	2	"Saturday, March 23, 2013 03:38:35 UTC"	53.49	-167.31	1.4	13.5	9	"Fox Islands, Aleutian Islands, Alaska"
+ci	15312481	1	"Saturday, March 23, 2013 03:23:13 UTC"	33.5	-116.46	1.1	9.1	36	Southern California
+hv	60481236	4	"Saturday, March 23, 2013 03:18:56 UTC"	19.49	-155.37	1.3	4.1	10	"Island of Hawaii, Hawaii"
+nc	71958715	3	"Saturday, March 23, 2013 03:11:31 UTC"	39.62	-120	1.1	5.9	12	Northern California
+nm	032213a	A	"Saturday, March 23, 2013 03:03:51 UTC"	36.28	-89.52	1.5	8	9	Tennessee
+ci	15312465	2	"Saturday, March 23, 2013 03:00:26 UTC"	36.24	-117.26	1	3.9	12	Central California
+us	2013ncad	5	"Saturday, March 23, 2013 02:57:39 UTC"	42.81	-1.8	4.2	0	13	Pyrenees
+nc	71958710	0	"Saturday, March 23, 2013 02:49:28 UTC"	38.77	-122.75	1	2.1	17	Northern California
+us	b000frgj	6	"Saturday, March 23, 2013 02:47:50 UTC"	12.35	143.88	4.9	8.4	67	Guam region
+ak	10679745	2	"Saturday, March 23, 2013 02:23:55 UTC"	59.11	-135.46	1.4	1	9	Southeastern Alaska
+ak	10679668	2	"Saturday, March 23, 2013 02:06:57 UTC"	51.95	-173.54	2.9	43.3	12	"Andreanof Islands, Aleutian Islands, Alaska"
+hv	60481221	5	"Saturday, March 23, 2013 02:05:18 UTC"	19.46	-155.6	1	14	12	"Island of Hawaii, Hawaii"
+ak	10682996	2	"Saturday, March 23, 2013 02:03:55 UTC"	51.24	-179.41	2.3	41.6	9	"Andreanof Islands, Aleutian Islands, Alaska"
+nn	406796	1	"Saturday, March 23, 2013 01:59:25 UTC"	38.32	-118.14	1.4	10.5	10	Nevada
+ak	10679575	2	"Saturday, March 23, 2013 01:43:33 UTC"	52	-173.69	2.6	41.5	12	"Andreanof Islands, Aleutian Islands, Alaska"
+nc	71958680	5	"Saturday, March 23, 2013 01:19:49 UTC"	37.7	-121.75	1.2	5.7	17	"San Francisco Bay area, California"
+ak	10682993	2	"Saturday, March 23, 2013 01:12:07 UTC"	60.52	-152.7	1.9	129.8	12	Southern Alaska
+us	b000frfp	6	"Saturday, March 23, 2013 00:55:08 UTC"	52.5	-174.02	4.3	193.5	65	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10679557	2	"Saturday, March 23, 2013 00:44:15 UTC"	59.95	-140.73	2.1	1	18	Southeastern Alaska
+ak	10682990	2	"Saturday, March 23, 2013 00:37:46 UTC"	63.21	-150.8	1.3	118.4	10	Central Alaska
+ak	10679550	2	"Saturday, March 23, 2013 00:20:22 UTC"	50.87	-177.65	2.1	25.7	11	"Andreanof Islands, Aleutian Islands, Alaska"
+ci	15312401	1	"Saturday, March 23, 2013 00:15:50 UTC"	36.1	-117.84	1.3	2.3	20	Central California
+ak	10682988	2	"Saturday, March 23, 2013 00:07:15 UTC"	63.81	-148.36	1.1	95.2	16	Central Alaska
+ak	10679543	2	"Saturday, March 23, 2013 00:02:56 UTC"	53.92	-164.88	1.9	60.6	12	"Unimak Island region, Alaska"
+ci	15312385	5	"Friday, March 22, 2013 23:56:00 UTC"	34.22	-117.42	2.5	13.6	95	"Greater Los Angeles area, California"
+ak	10679537	2	"Friday, March 22, 2013 23:55:40 UTC"	52.56	-169.37	2.1	4.9	14	"Fox Islands, Aleutian Islands, Alaska"
+ak	10681165	2	"Friday, March 22, 2013 23:18:42 UTC"	54.77	-152.26	3.6	3.3	46	south of Alaska
+ak	10679500	2	"Friday, March 22, 2013 23:15:34 UTC"	64.98	-147.24	1.1	0	15	Central Alaska
+ak	10681163	2	"Friday, March 22, 2013 23:03:15 UTC"	61.69	-150.78	1.6	72.3	24	Southern Alaska
+ak	10679489	2	"Friday, March 22, 2013 22:46:13 UTC"	60.14	-152.86	2.1	107.1	35	Southern Alaska
+ci	15312361	1	"Friday, March 22, 2013 22:43:07 UTC"	33.51	-116.46	1.3	10.2	37	Southern California
+nc	71958630	2	"Friday, March 22, 2013 22:42:09 UTC"	37.41	-118.53	1.5	7.2	23	Central California
+us	b000frdz	6	"Friday, March 22, 2013 22:40:53 UTC"	-28.01	-176.51	5.3	6.8	112	Kermadec Islands region
+ak	10679458	3	"Friday, March 22, 2013 22:02:57 UTC"	59.85	-152.9	2.2	99.5	45	Southern Alaska
+ak	10679450	2	"Friday, March 22, 2013 21:52:59 UTC"	61.25	-147.08	2.4	4.7	49	Southern Alaska
+uu	60016697	3	"Friday, March 22, 2013 21:43:09 UTC"	38.74	-111.47	1.2	5.8	7	Utah
+ci	15312329	1	"Friday, March 22, 2013 21:39:37 UTC"	33.49	-116.97	1	9.4	23	Southern California
+ak	10679437	2	"Friday, March 22, 2013 21:36:04 UTC"	63.48	-151.26	1.8	6.3	23	Central Alaska
+nc	71958615	3	"Friday, March 22, 2013 21:32:29 UTC"	38.75	-122.71	1.9	2	60	Northern California
+uw	60512026	2	"Friday, March 22, 2013 21:12:47 UTC"	49.44	-120.49	2.3	0	6	"British Columbia, Canada"
+ak	10681158	2	"Friday, March 22, 2013 20:57:35 UTC"	55.48	-135.05	3	24.9	12	off the coast of Southeastern Alaska
+ak	10679409	2	"Friday, March 22, 2013 20:45:31 UTC"	63.47	-146.5	1	4.8	17	Central Alaska
+nc	71958590	0	"Friday, March 22, 2013 20:43:22 UTC"	38.79	-122.74	1	1.4	16	Northern California
+ci	15312289	1	"Friday, March 22, 2013 20:40:47 UTC"	36.07	-117.87	1.1	1.4	18	Central California
+uu	60016682	2	"Friday, March 22, 2013 20:03:29 UTC"	36.99	-112.37	2.3	18.5	12	Arizona
+uw	60512021	3	"Friday, March 22, 2013 19:32:13 UTC"	47.75	-123.18	3.2	41.2	54	"Olympic Peninsula, Washington"
+us	b000fr4j	5	"Friday, March 22, 2013 19:30:04 UTC"	37.45	71.8	4.2	114.5	31	Tajikistan
+ak	10679390	2	"Friday, March 22, 2013 19:27:08 UTC"	61.26	-148.43	1.6	29.6	28	Southern Alaska
+nc	71958565	2	"Friday, March 22, 2013 19:22:52 UTC"	37.32	-122.1	1.2	0	22	"San Francisco Bay area, California"
+nn	406758	1	"Friday, March 22, 2013 19:20:39 UTC"	36.81	-115.87	1	10.3	12	Nevada
+ak	10681155	2	"Friday, March 22, 2013 19:11:53 UTC"	61.74	-150.76	1.5	65	28	Southern Alaska
+ci	15312257	3	"Friday, March 22, 2013 19:10:54 UTC"	33.98	-118.69	2.2	13	54	"Santa Monica Bay, California"
+nc	71958555	2	"Friday, March 22, 2013 19:02:47 UTC"	39.33	-123.27	1.4	7.6	10	Northern California
+ak	10679379	2	"Friday, March 22, 2013 18:53:35 UTC"	61.39	-146.66	1.5	8.8	26	Southern Alaska
+ci	15312249	5	"Friday, March 22, 2013 18:48:00 UTC"	35.72	-119.85	1.2	3.3	6	Central California
+ci	15312241	2	"Friday, March 22, 2013 18:33:21 UTC"	34.02	-116.85	1.1	9.4	39	Southern California
+ak	10679370	2	"Friday, March 22, 2013 18:29:57 UTC"	51.5	-178.09	2.1	11.9	23	"Andreanof Islands, Aleutian Islands, Alaska"
+ak	10679362	2	"Friday, March 22, 2013 18:15:18 UTC"	54.88	-159.92	1.9	16	12	south of Alaska
+ak	10681151	2	"Friday, March 22, 2013 18:01:28 UTC"	62.73	-150.92	1.4	89.9	20	Central Alaska
+us	b000fr1b	7	"Friday, March 22, 2013 17:57:36 UTC"	10.1	-103.92	4.5	10.1	58	northern East Pacific Rise
+pr	13081005	0	"Friday, March 22, 2013 17:55:45 UTC"	19.29	-65.24	3	10	5	Puerto Rico region
+hv	60481076	2	"Friday, March 22, 2013 17:36:32 UTC"	19.41	-155.32	2	5.6	28	"Island of Hawaii, Hawaii"
+ci	15312233	2	"Friday, March 22, 2013 17:27:09 UTC"	32.54	-116.77	1.9	0	22	"Baja California, Mexico"
+ak	10681150	2	"Friday, March 22, 2013 17:17:17 UTC"	63.37	-150.29	1.3	117.1	20	Central Alaska
+ci	15312225	2	"Friday, March 22, 2013 17:11:01 UTC"	35.94	-117.14	1.2	0	8	Central California
+nc	71958515	2	"Friday, March 22, 2013 17:05:19 UTC"	37.39	-121.75	1.6	6.8	43	"San Francisco Bay area, California"
+ci	15312201	2	"Friday, March 22, 2013 17:00:25 UTC"	32.53	-115.64	1.5	9.4	8	"Baja California, Mexico"
+ak	10679331	2	"Friday, March 22, 2013 16:16:57 UTC"	65.24	-141.06	2.8	10.6	31	northern Alaska
+ci	15312145	1	"Friday, March 22, 2013 15:45:27 UTC"	33.29	-116.26	1.3	6.2	36	Southern California
+ci	15312137	1	"Friday, March 22, 2013 15:34:03 UTC"	33.51	-116.44	1.3	9.5	37	Southern California
+ak	10679306	2	"Friday, March 22, 2013 15:19:28 UTC"	63.48	-146.42	1.2	14	25	Central Alaska
+ak	10679293	2	"Friday, March 22, 2013 14:26:02 UTC"	55.84	-159.18	2.6	99.4	23	Alaska Peninsula
+ak	10681144	2	"Friday, March 22, 2013 14:26:00 UTC"	63.42	-149.98	1.2	105.4	17	Central Alaska
+us	b000fqwi	5	"Friday, March 22, 2013 14:18:58 UTC"	-55.13	-21.72	5.2	15	21	southwestern Atlantic Ocean
+pr	13081004	0	"Friday, March 22, 2013 14:18:01 UTC"	18.19	-68.05	2.9	103	10	"Mona Passage, Dominican Republic"
+nc	71958465	5	"Friday, March 22, 2013 14:14:47 UTC"	39.62	-120.01	1.3	5.2	20	Northern California
+nc	71958460	5	"Friday, March 22, 2013 14:14:09 UTC"	39.62	-120.01	1.4	5.1	23	Northern California
+nn	406719	1	"Friday, March 22, 2013 14:08:14 UTC"	37.36	-115.97	1.6	0	14	Nevada
+nc	71958455	5	"Friday, March 22, 2013 14:04:21 UTC"	39.62	-120.01	1.4	5.1	24	Northern California
+nc	71958450	5	"Friday, March 22, 2013 14:02:35 UTC"	39.62	-120.01	1.4	4.5	23	Northern California
+nc	71958445	3	"Friday, March 22, 2013 14:01:40 UTC"	39.62	-120.01	2.6	4.7	26	Northern California
+ci	15312097	2	"Friday, March 22, 2013 14:00:39 UTC"	34.71	-116.36	1.7	3.8	16	Southern California
+nc	71958435	3	"Friday, March 22, 2013 13:55:44 UTC"	38.82	-122.82	2.2	2.6	72	Northern California
+ci	15312089	2	"Friday, March 22, 2013 13:49:01 UTC"	34.01	-117.16	1.2	7.7	11	"Greater Los Angeles area, California"
+uw	60511996	2	"Friday, March 22, 2013 13:38:15 UTC"	47.59	-121.58	1.7	84.5	20	Washington
+nc	71958420	3	"Friday, March 22, 2013 13:23:51 UTC"	36.19	-120.77	2	6.1	57	Central California
